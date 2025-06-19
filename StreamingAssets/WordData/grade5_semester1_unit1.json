@@ -1,0 +1,122 @@
+{
+    "grade": 5,
+    "semester": 1,
+    "unit": 1,
+    "unitName": "",
+    "words": [
+        {
+            "english": "old",
+            "phonetic": "[əʊld]",
+            "chinese": "老的；年纪大的",
+            "audioPath": "old.mp3"
+        },
+        {
+            "english": "young",
+            "phonetic": "[jʌŋ]",
+            "chinese": "年轻的；岁数不大的",
+            "audioPath": "young.mp3"
+        },
+        {
+            "english": "funny",
+            "phonetic": "['fʌni]",
+            "chinese": "滑稽的；可笑的",
+            "audioPath": "funny.mp3"
+        },
+        {
+            "english": "kind",
+            "phonetic": "[kaɪnd]",
+            "chinese": "体贴的；慈祥的",
+            "audioPath": "kind.mp3"
+        },
+        {
+            "english": "strict",
+            "phonetic": "[strɪkt]",
+            "chinese": "严厉的",
+            "audioPath": "strict.mp3"
+        },
+        {
+            "english": "polite",
+            "phonetic": "[pəˈlaɪt]",
+            "chinese": "有礼貌的",
+            "audioPath": "polite.mp3"
+        },
+        {
+            "english": "hard-working",
+            "phonetic": NaN,
+            "chinese": "工作努力的",
+            "audioPath": "hard_working.mp3"
+        },
+        {
+            "english": "helpful",
+            "phonetic": "['helpfəl]",
+            "chinese": "有帮助的",
+            "audioPath": "helpful.mp3"
+        },
+        {
+            "english": "clever",
+            "phonetic": "['klevə]",
+            "chinese": "聪明的",
+            "audioPath": "clever.mp3"
+        },
+        {
+            "english": "shy",
+            "phonetic": "[ʃaɪ]",
+            "chinese": "腼腆的；羞怯的",
+            "audioPath": "shy.mp3"
+        },
+        {
+            "english": "know",
+            "phonetic": "[nəʊ]",
+            "chinese": "知道；了解",
+            "audioPath": "know.mp3"
+        },
+        {
+            "english": "our",
+            "phonetic": "['aʊə]",
+            "chinese": "我们的",
+            "audioPath": "our.mp3"
+        },
+        {
+            "english": "Ms",
+            "phonetic": "[mɪz]",
+            "chinese": "女士",
+            "audioPath": "ms.mp3"
+        },
+        {
+            "english": "will",
+            "phonetic": "[wɪl]",
+            "chinese": "将要",
+            "audioPath": "will.mp3"
+        },
+        {
+            "english": "sometimes",
+            "phonetic": "['sʌmtaɪmz]",
+            "chinese": "有时；间或",
+            "audioPath": "sometimes.mp3"
+        },
+        {
+            "english": "robot",
+            "phonetic": "[ˈrəʊbɒt]",
+            "chinese": "机器人",
+            "audioPath": "robot.mp3"
+        },
+        {
+            "english": "him",
+            "phonetic": "[hɪm]",
+            "chinese": "他（宾语或表语）",
+            "audioPath": "him.mp3"
+        },
+        {
+            "english": "speak",
+            "phonetic": "[spiːk]",
+            "chinese": "会说；会讲",
+            "audioPath": "speak.mp3"
+        },
+        {
+            "english": "finish",
+            "phonetic": "['fɪnɪʃ]",
+            "chinese": "完成；做好",
+            "audioPath": "finish.mp3"
+        }
+    ]
+}

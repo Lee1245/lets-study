@@ -1,0 +1,152 @@
+{
+    "grade": 5,
+    "semester": 2,
+    "unit": 2,
+    "unitName": "",
+    "words": [
+        {
+            "english": "spring",
+            "phonetic": "[sprɪŋ]",
+            "chinese": "春天",
+            "audioPath": "spring.mp3"
+        },
+        {
+            "english": "summer",
+            "phonetic": "['sʌmə]",
+            "chinese": "夏天",
+            "audioPath": "summer.mp3"
+        },
+        {
+            "english": "autumn/fall",
+            "phonetic": NaN,
+            "chinese": "秋天",
+            "audioPath": "autumn_fall.mp3"
+        },
+        {
+            "english": "winter",
+            "phonetic": "['wɪntə]",
+            "chinese": "冬天",
+            "audioPath": "winter.mp3"
+        },
+        {
+            "english": "season",
+            "phonetic": "['siːzn]",
+            "chinese": "季节",
+            "audioPath": "season.mp3"
+        },
+        {
+            "english": "picnic",
+            "phonetic": "['pɪknɪk]",
+            "chinese": "野餐",
+            "audioPath": "picnic.mp3"
+        },
+        {
+            "english": "go on a picnic",
+            "phonetic": NaN,
+            "chinese": "去野餐",
+            "audioPath": "go_on_a_picnic.mp3"
+        },
+        {
+            "english": "pick",
+            "phonetic": "[pɪk]",
+            "chinese": "摘；采集",
+            "audioPath": "pick.mp3"
+        },
+        {
+            "english": "pick apples",
+            "phonetic": NaN,
+            "chinese": "摘苹果",
+            "audioPath": "pick_apples.mp3"
+        },
+        {
+            "english": "snowman",
+            "phonetic": "['snəʊˌmæn]",
+            "chinese": "雪人",
+            "audioPath": "snowman.mp3"
+        },
+        {
+            "english": "make a snowman",
+            "phonetic": NaN,
+            "chinese": "堆雪人",
+            "audioPath": "make_a_snowman.mp3"
+        },
+        {
+            "english": "go swimming",
+            "phonetic": NaN,
+            "chinese": "去游泳",
+            "audioPath": "go_swimming.mp3"
+        },
+        {
+            "english": "which",
+            "phonetic": "[hwɪtʃ]",
+            "chinese": "哪一个",
+            "audioPath": "which.mp3"
+        },
+        {
+            "english": "best",
+            "phonetic": "[best]",
+            "chinese": "最",
+            "audioPath": "best.mp3"
+        },
+        {
+            "english": "snow",
+            "phonetic": "[snəʊ]",
+            "chinese": "雪",
+            "audioPath": "snow.mp3"
+        },
+        {
+            "english": "good job",
+            "phonetic": NaN,
+            "chinese": "做得好",
+            "audioPath": "good_job.mp3"
+        },
+        {
+            "english": "because",
+            "phonetic": "[bɪ'kɔːz]",
+            "chinese": "因为",
+            "audioPath": "because.mp3"
+        },
+        {
+            "english": "vacation",
+            "phonetic": "[vəˈkeɪʃ(ə)n]",
+            "chinese": "假期",
+            "audioPath": "vacation.mp3"
+        },
+        {
+            "english": "all",
+            "phonetic": "[ɔːl]",
+            "chinese": "全；完全",
+            "audioPath": "all.mp3"
+        },
+        {
+            "english": "pink",
+            "phonetic": "[pɪŋk]",
+            "chinese": "粉色；粉色的",
+            "audioPath": "pink.mp3"
+        },
+        {
+            "english": "lovely",
+            "phonetic": "[ˈlʌvli]",
+            "chinese": "可爱的；美丽的",
+            "audioPath": "lovely.mp3"
+        },
+        {
+            "english": "leaf",
+            "phonetic": "[liːf]",
+            "chinese": "叶子",
+            "audioPath": "leaf.mp3"
+        },
+        {
+            "english": "fall",
+            "phonetic": "[fɔːl]",
+            "chinese": "落下；秋天",
+            "audioPath": "fall.mp3"
+        },
+        {
+            "english": "paint",
+            "phonetic": "[peɪnt]",
+            "chinese": "用颜料绘画",
+            "audioPath": "paint.mp3"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "grade": 3,
+    "semester": 2,
+    "unit": 5,
+    "unitName": "",
+    "words": [
+        {
+            "english": "pear",
+            "phonetic": "[peə]",
+            "chinese": "梨",
+            "audioPath": "pear.mp3"
+        },
+        {
+            "english": "apple",
+            "phonetic": "['æpl]",
+            "chinese": "苹果",
+            "audioPath": "apple.mp3"
+        },
+        {
+            "english": "orange",
+            "phonetic": "['ɔːrɪndʒ]",
+            "chinese": "橙子",
+            "audioPath": "orange.mp3"
+        },
+        {
+            "english": "banana",
+            "phonetic": "[bə'nɑːnə]",
+            "chinese": "香蕉",
+            "audioPath": "banana.mp3"
+        },
+        {
+            "english": "watermelon",
+            "phonetic": "[ˈwɔːtəmelən]",
+            "chinese": "西瓜",
+            "audioPath": "watermelon.mp3"
+        },
+        {
+            "english": "strawberry",
+            "phonetic": "[ˈstrɔːbəri]",
+            "chinese": "草莓",
+            "audioPath": "strawberry.mp3"
+        },
+        {
+            "english": "grape",
+            "phonetic": "[greɪp]",
+            "chinese": "葡萄",
+            "audioPath": "grape.mp3"
+        },
+        {
+            "english": "buy",
+            "phonetic": "    [baɪ]",
+            "chinese": "    买",
+            "audioPath": "buy.mp3"
+        },
+        {
+            "english": "Fruit  ",
+            "phonetic": "[fruːt]",
+            "chinese": "水果",
+            "audioPath": "fruit.mp3"
+        }
+    ]
+}

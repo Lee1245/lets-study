@@ -1,0 +1,92 @@
+{
+    "grade": 6,
+    "semester": 1,
+    "unit": 4,
+    "unitName": "",
+    "words": [
+        {
+            "english": "studies",
+            "phonetic": NaN,
+            "chinese": "学习",
+            "audioPath": "studies.mp3"
+        },
+        {
+            "english": "puzzle",
+            "phonetic": "[ˈpʌz(ə)l]",
+            "chinese": "谜",
+            "audioPath": "puzzle.mp3"
+        },
+        {
+            "english": "hiking",
+            "phonetic": "[haɪkɪn]",
+            "chinese": "远足",
+            "audioPath": "hiking.mp3"
+        },
+        {
+            "english": "pen pal",
+            "phonetic": NaN,
+            "chinese": "笔友",
+            "audioPath": "pen_pal.mp3"
+        },
+        {
+            "english": "hobby",
+            "phonetic": "[ˈhɒbi]",
+            "chinese": "业余爱好",
+            "audioPath": "hobby.mp3"
+        },
+        {
+            "english": "jasmine",
+            "phonetic": NaN,
+            "chinese": "茉莉",
+            "audioPath": "jasmine.mp3"
+        },
+        {
+            "english": "idea",
+            "phonetic": "[aɪ'dɪə]",
+            "chinese": "想法；主意",
+            "audioPath": "idea.mp3"
+        },
+        {
+            "english": "Canberra",
+            "phonetic": NaN,
+            "chinese": "堪培拉；澳大利亚首都",
+            "audioPath": "canberra.mp3"
+        },
+        {
+            "english": "amazing",
+            "phonetic": "[ə'meɪzɪŋ]",
+            "chinese": "令人惊奇的",
+            "audioPath": "amazing.mp3"
+        },
+        {
+            "english": "shall",
+            "phonetic": "[ʃæl]",
+            "chinese": "表示征求意见",
+            "audioPath": "shall.mp3"
+        },
+        {
+            "english": "goal",
+            "phonetic": "[gəʊl]",
+            "chinese": "射门",
+            "audioPath": "goal.mp3"
+        },
+        {
+            "english": "join",
+            "phonetic": "[dʒɔɪn]",
+            "chinese": "加入",
+            "audioPath": "join.mp3"
+        },
+        {
+            "english": "club",
+            "phonetic": "[klʌb]",
+            "chinese": "俱乐部",
+            "audioPath": "club.mp3"
+        },
+        {
+            "english": "share",
+            "phonetic": "[ʃeə]",
+            "chinese": "分享",
+            "audioPath": "share.mp3"
+        }
+    ]
+}

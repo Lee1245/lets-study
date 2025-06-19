@@ -1,0 +1,98 @@
+{
+    "grade": 5,
+    "semester": 1,
+    "unit": 6,
+    "unitName": "",
+    "words": [
+        {
+            "english": "forest",
+            "phonetic": "[ˈfɒrɪst]",
+            "chinese": "森林；林区",
+            "audioPath": "forest.mp3"
+        },
+        {
+            "english": "river",
+            "phonetic": "['rɪvə]",
+            "chinese": "河；江",
+            "audioPath": "river.mp3"
+        },
+        {
+            "english": "lake",
+            "phonetic": "[leɪk]",
+            "chinese": "湖；湖泊",
+            "audioPath": "lake.mp3"
+        },
+        {
+            "english": "mountain",
+            "phonetic": "['maʊntɪn]",
+            "chinese": "高山；山岳",
+            "audioPath": "mountain.mp3"
+        },
+        {
+            "english": "hill",
+            "phonetic": "[hɪl]",
+            "chinese": "山丘；小山",
+            "audioPath": "hill.mp3"
+        },
+        {
+            "english": "tree",
+            "phonetic": "[triː]",
+            "chinese": "树；树木",
+            "audioPath": "tree.mp3"
+        },
+        {
+            "english": "bridge",
+            "phonetic": "[brɪdʒ]",
+            "chinese": "桥",
+            "audioPath": "bridge.mp3"
+        },
+        {
+            "english": "building",
+            "phonetic": "['bɪldɪŋ]",
+            "chinese": "建筑物；房子",
+            "audioPath": "building.mp3"
+        },
+        {
+            "english": "village",
+            "phonetic": "['vɪlɪdʒ]",
+            "chinese": "村庄；村镇",
+            "audioPath": "village.mp3"
+        },
+        {
+            "english": "house",
+            "phonetic": "[haʊs]",
+            "chinese": "房屋；房子",
+            "audioPath": "house.mp3"
+        },
+        {
+            "english": "boating",
+            "phonetic": "['bəʊtɪŋ]",
+            "chinese": "划船",
+            "audioPath": "boating.mp3"
+        },
+        {
+            "english": "go boating",
+            "phonetic": NaN,
+            "chinese": "去划船",
+            "audioPath": "go_boating.mp3"
+        },
+        {
+            "english": "aren't = are not",
+            "phonetic": NaN,
+            "chinese": "不是",
+            "audioPath": "aren_t_are_not.mp3"
+        },
+        {
+            "english": "rabbit",
+            "phonetic": "['ræbɪt]",
+            "chinese": "兔子",
+            "audioPath": "rabbit.mp3"
+        },
+        {
+            "english": "high",
+            "phonetic": "[haɪ]",
+            "chinese": "高的",
+            "audioPath": "high.mp3"
+        }
+    ]
+}

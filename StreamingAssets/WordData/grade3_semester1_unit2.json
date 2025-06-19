@@ -1,0 +1,128 @@
+{
+    "grade": 3,
+    "semester": 1,
+    "unit": 2,
+    "unitName": "",
+    "words": [
+        {
+            "english": "mum",
+            "phonetic": "/mʌm/",
+            "chinese": "（口语）妈妈",
+            "audioPath": "mum.mp3"
+        },
+        {
+            "english": "dad",
+            "phonetic": "/dæd/",
+            "chinese": "（口语）爸爸",
+            "audioPath": "dad.mp3"
+        },
+        {
+            "english": "grandma",
+            "phonetic": "/'grænmɑː/",
+            "chinese": "(口语)（外）祖母；奶奶；姥姥；外婆",
+            "audioPath": "grandma.mp3"
+        },
+        {
+            "english": "grandpa",
+            "phonetic": "/'grænpɑː/",
+            "chinese": "(口语)（外）祖父；爷爷；姥爷；外公",
+            "audioPath": "grandpa.mp3"
+        },
+        {
+            "english": "grandfather",
+            "phonetic": "/'grænfɑːðə/",
+            "chinese": "(口语)（外）祖父；爷爷；姥爷；外公",
+            "audioPath": "grandfather.mp3"
+        },
+        {
+            "english": "grandmother",
+            "phonetic": "/ˈɡrænmʌðə(r)/",
+            "chinese": "(口语)（外）祖母；奶奶；姥姥；外婆",
+            "audioPath": "grandmother.mp3"
+        },
+        {
+            "english": "mother",
+            "phonetic": "/'mʌðə/",
+            "chinese": "母亲；妈妈",
+            "audioPath": "mother.mp3"
+        },
+        {
+            "english": "father",
+            "phonetic": "/'fɑːðə/ ",
+            "chinese": "父亲；爸爸",
+            "audioPath": "father.mp3"
+        },
+        {
+            "english": "me",
+            "phonetic": "/miː/ ",
+            "chinese": "我",
+            "audioPath": "me.mp3"
+        },
+        {
+            "english": "sister",
+            "phonetic": "/'sɪstə/",
+            "chinese": "姐；妹",
+            "audioPath": "sister.mp3"
+        },
+        {
+            "english": "family",
+            "phonetic": "/'fæməli/ ",
+            "chinese": "家；家庭",
+            "audioPath": "family.mp3"
+        },
+        {
+            "english": "have",
+            "phonetic": "/hæv/",
+            "chinese": "有",
+            "audioPath": "have.mp3"
+        },
+        {
+            "english": "big",
+            "phonetic": "/bɪg/ ",
+            "chinese": "大的",
+            "audioPath": "big.mp3"
+        },
+        {
+            "english": "cousin",
+            "phonetic": "/ˈkʌzən/",
+            "chinese": "堂（表）兄弟；堂（表）姐妹",
+            "audioPath": "cousin.mp3"
+        },
+        {
+            "english": "brother",
+            "phonetic": "/'brʌðə/",
+            "chinese": "兄弟",
+            "audioPath": "brother.mp3"
+        },
+        {
+            "english": "baby",
+            "phonetic": "/'beɪbɪ/",
+            "chinese": "婴儿",
+            "audioPath": "baby.mp3"
+        },
+        {
+            "english": "uncle",
+            "phonetic": "/'ʌŋkl/ ",
+            "chinese": "舅父；叔父；伯父；姑父；姨父",
+            "audioPath": "uncle.mp3"
+        },
+        {
+            "english": "aunt",
+            "phonetic": "/ɑːnt/ ",
+            "chinese": "姑母；姨母；伯母；婶母；舅母",
+            "audioPath": "aunt.mp3"
+        },
+        {
+            "english": "some",
+            "phonetic": "/sʌm/",
+            "chinese": "一些",
+            "audioPath": "some.mp3"
+        },
+        {
+            "english": "small",
+            "phonetic": "/smɔːl/ ",
+            "chinese": "小的",
+            "audioPath": "small.mp3"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "grade": 3,
+    "semester": 1,
+    "unit": 3,
+    "unitName": "",
+    "words": [
+        {
+            "english": "like",
+            "phonetic": "/laɪk/",
+            "chinese": "喜欢",
+            "audioPath": "like.mp3"
+        },
+        {
+            "english": "dog",
+            "phonetic": "/dɒg/",
+            "chinese": "狗",
+            "audioPath": "dog.mp3"
+        },
+        {
+            "english": "pet",
+            "phonetic": "/pet/",
+            "chinese": "宠物",
+            "audioPath": "pet.mp3"
+        },
+        {
+            "english": "cat",
+            "phonetic": "/kæt/",
+            "chinese": "猫",
+            "audioPath": "cat.mp3"
+        },
+        {
+            "english": "fish",
+            "phonetic": "/fɪʃ/",
+            "chinese": "鱼",
+            "audioPath": "fish.mp3"
+        },
+        {
+            "english": "bird",
+            "phonetic": "/bɜːd/",
+            "chinese": "鸟",
+            "audioPath": "bird.mp3"
+        },
+        {
+            "english": "rabbit",
+            "phonetic": "/'ræbɪt/ ",
+            "chinese": "兔",
+            "audioPath": "rabbit.mp3"
+        },
+        {
+            "english": "go",
+            "phonetic": "/gəʊ/",
+            "chinese": "去",
+            "audioPath": "go.mp3"
+        },
+        {
+            "english": "zoo",
+            "phonetic": "/zuː/",
+            "chinese": "动物园",
+            "audioPath": "zoo.mp3"
+        },
+        {
+            "english": "fox",
+            "phonetic": "/fɒks/ ",
+            "chinese": "狐狸",
+            "audioPath": "fox.mp3"
+        },
+        {
+            "english": "Miss",
+            "phonetic": "/mɪs/ （学生对女教师的称呼）；女士",
+            "chinese": NaN,
+            "audioPath": "miss.mp3"
+        },
+        {
+            "english": "panda",
+            "phonetic": "/'pændə/",
+            "chinese": "大熊猫",
+            "audioPath": "panda.mp3"
+        },
+        {
+            "english": "red panda",
+            "phonetic": "/red/",
+            "chinese": "小熊猫",
+            "audioPath": "red_panda.mp3"
+        },
+        {
+            "english": "cute",
+            "phonetic": "/kjuːt/",
+            "chinese": "可爱的",
+            "audioPath": "cute.mp3"
+        },
+        {
+            "english": "monkey",
+            "phonetic": "/'mʌŋkɪ/ ",
+            "chinese": "猴子",
+            "audioPath": "monkey.mp3"
+        },
+        {
+            "english": "tiger",
+            "phonetic": "/'taɪgə/",
+            "chinese": "老虎",
+            "audioPath": "tiger.mp3"
+        },
+        {
+            "english": "elephant",
+            "phonetic": "/'elɪf(ə)nt/",
+            "chinese": "大象",
+            "audioPath": "elephant.mp3"
+        },
+        {
+            "english": "lion",
+            "phonetic": "/'laɪən/",
+            "chinese": "狮子",
+            "audioPath": "lion.mp3"
+        },
+        {
+            "english": "giraffe",
+            "phonetic": " /dʒɪ'rɑːf/",
+            "chinese": "长颈鹿",
+            "audioPath": "giraffe.mp3"
+        },
+        {
+            "english": "tall",
+            "phonetic": "/tɔːl/ ",
+            "chinese": "高的",
+            "audioPath": "tall.mp3"
+        },
+        {
+            "english": "fast",
+            "phonetic": "/fɑːst/",
+            "chinese": "快的",
+            "audioPath": "fast.mp3"
+        }
+    ]
+}

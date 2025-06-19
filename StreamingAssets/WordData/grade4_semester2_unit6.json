@@ -1,0 +1,110 @@
+{
+    "grade": 4,
+    "semester": 2,
+    "unit": 6,
+    "unitName": "",
+    "words": [
+        {
+            "english": "glove",
+            "phonetic": "[glʌv]",
+            "chinese": "手套",
+            "audioPath": "glove.mp3"
+        },
+        {
+            "english": "scarf",
+            "phonetic": "[skɑːf]",
+            "chinese": "围巾",
+            "audioPath": "scarf.mp3"
+        },
+        {
+            "english": "umbrella",
+            "phonetic": "[ʌm'brelə]",
+            "chinese": "雨伞",
+            "audioPath": "umbrella.mp3"
+        },
+        {
+            "english": "sunglasses",
+            "phonetic": "['sʌnglɑːsɪz]",
+            "chinese": "太阳镜",
+            "audioPath": "sunglasses.mp3"
+        },
+        {
+            "english": "pretty",
+            "phonetic": "['prɪti]",
+            "chinese": "美观的；精致的",
+            "audioPath": "pretty.mp3"
+        },
+        {
+            "english": "expensive",
+            "phonetic": "[ɪks'pensɪv]",
+            "chinese": "昂贵的",
+            "audioPath": "expensive.mp3"
+        },
+        {
+            "english": "cheap",
+            "phonetic": "[tʃiːp]",
+            "chinese": "便宜的",
+            "audioPath": "cheap.mp3"
+        },
+        {
+            "english": "nice",
+            "phonetic": "[naɪs]",
+            "chinese": "好的",
+            "audioPath": "nice.mp3"
+        },
+        {
+            "english": "try on",
+            "phonetic": "[ˈtraɪɒn]",
+            "chinese": "试穿",
+            "audioPath": "try_on.mp3"
+        },
+        {
+            "english": "size",
+            "phonetic": "[saɪz]",
+            "chinese": "尺码；号",
+            "audioPath": "size.mp3"
+        },
+        {
+            "english": "of course",
+            "phonetic": "[ɒv//kɔːs]",
+            "chinese": "当然",
+            "audioPath": "of_course.mp3"
+        },
+        {
+            "english": "too",
+            "phonetic": "[tuː]",
+            "chinese": "太；过于",
+            "audioPath": "too.mp3"
+        },
+        {
+            "english": "just",
+            "phonetic": "[dʒʌst]",
+            "chinese": "正好；恰好",
+            "audioPath": "just.mp3"
+        },
+        {
+            "english": "how much",
+            "phonetic": NaN,
+            "chinese": "多少钱",
+            "audioPath": "how_much.mp3"
+        },
+        {
+            "english": "dollar",
+            "phonetic": "[ˈdɒlə]",
+            "chinese": "元（美元等）",
+            "audioPath": "dollar.mp3"
+        },
+        {
+            "english": "sale",
+            "phonetic": "[seɪl]",
+            "chinese": "大减价",
+            "audioPath": "sale.mp3"
+        },
+        {
+            "english": "more",
+            "phonetic": "[mɔː]",
+            "chinese": "更多的",
+            "audioPath": "more.mp3"
+        }
+    ]
+}

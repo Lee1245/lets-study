@@ -1,0 +1,98 @@
+{
+    "grade": 3,
+    "semester": 2,
+    "unit": 1,
+    "unitName": "",
+    "words": [
+        {
+            "english": "UK  ",
+            "phonetic": "[juːˈkeɪ]",
+            "chinese": "英国",
+            "audioPath": "uk.mp3"
+        },
+        {
+            "english": "Canada",
+            "phonetic": "['kænədə]",
+            "chinese": "加拿大",
+            "audioPath": "canada.mp3"
+        },
+        {
+            "english": "USA",
+            "phonetic": NaN,
+            "chinese": "美国",
+            "audioPath": "usa.mp3"
+        },
+        {
+            "english": "China",
+            "phonetic": "['tʃaɪnə]",
+            "chinese": "中国",
+            "audioPath": "china.mp3"
+        },
+        {
+            "english": "She  ",
+            "phonetic": "[ʃiː]",
+            "chinese": "她",
+            "audioPath": "she.mp3"
+        },
+        {
+            "english": "student",
+            "phonetic": "['stjuːdənt]",
+            "chinese": "学生",
+            "audioPath": "student.mp3"
+        },
+        {
+            "english": "pupil",
+            "phonetic": "['pjuːpl]",
+            "chinese": "小学生",
+            "audioPath": "pupil.mp3"
+        },
+        {
+            "english": "he",
+            "phonetic": "    [hiː]",
+            "chinese": "他",
+            "audioPath": "he.mp3"
+        },
+        {
+            "english": "teacher",
+            "phonetic": "['tiːtʃə]",
+            "chinese": "教师",
+            "audioPath": "teacher.mp3"
+        },
+        {
+            "english": "Boy ",
+            "phonetic": "[bɔɪ]",
+            "chinese": "男孩",
+            "audioPath": "boy.mp3"
+        },
+        {
+            "english": "And ",
+            "phonetic": "[ænd]",
+            "chinese": "和；与",
+            "audioPath": "and.mp3"
+        },
+        {
+            "english": "girl",
+            "phonetic": "    [gɜːl]",
+            "chinese": "女孩",
+            "audioPath": "girl.mp3"
+        },
+        {
+            "english": "New ",
+            "phonetic": "[njuː]",
+            "chinese": "新的",
+            "audioPath": "new.mp3"
+        },
+        {
+            "english": "friend",
+            "phonetic": "[frend]",
+            "chinese": "朋友",
+            "audioPath": "friend.mp3"
+        },
+        {
+            "english": "today",
+            "phonetic": "[tə'deɪ]",
+            "chinese": "今天",
+            "audioPath": "today.mp3"
+        }
+    ]
+}

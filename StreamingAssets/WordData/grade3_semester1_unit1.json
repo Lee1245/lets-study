@@ -1,0 +1,110 @@
+{
+    "grade": 3,
+    "semester": 1,
+    "unit": 1,
+    "unitName": "",
+    "words": [
+        {
+            "english": "nice",
+            "phonetic": "/naɪs/",
+            "chinese": "令人愉快的；友好的",
+            "audioPath": "nice.mp3"
+        },
+        {
+            "english": "ear",
+            "phonetic": "/ɪə(r)/",
+            "chinese": "耳朵",
+            "audioPath": "ear.mp3"
+        },
+        {
+            "english": "hand",
+            "phonetic": "/hænd/ ",
+            "chinese": "手",
+            "audioPath": "hand.mp3"
+        },
+        {
+            "english": "eye",
+            "phonetic": "/aɪ/",
+            "chinese": "眼睛",
+            "audioPath": "eye.mp3"
+        },
+        {
+            "english": "mouth",
+            "phonetic": "/maʊθ/ ",
+            "chinese": "嘴",
+            "audioPath": "mouth.mp3"
+        },
+        {
+            "english": "arm",
+            "phonetic": "/ɑːm/",
+            "chinese": "胳膊",
+            "audioPath": "arm.mp3"
+        },
+        {
+            "english": "can",
+            "phonetic": "/kæn/ ",
+            "chinese": "可以",
+            "audioPath": "can.mp3"
+        },
+        {
+            "english": "share",
+            "phonetic": "/ʃeə(r)/",
+            "chinese": "分享",
+            "audioPath": "share.mp3"
+        },
+        {
+            "english": "smile",
+            "phonetic": "/smaɪl/",
+            "chinese": "微笑",
+            "audioPath": "smile.mp3"
+        },
+        {
+            "english": "listen",
+            "phonetic": " /'lɪs(ə)n/",
+            "chinese": "听；倾听",
+            "audioPath": "listen.mp3"
+        },
+        {
+            "english": "help",
+            "phonetic": "/help/",
+            "chinese": "帮助",
+            "audioPath": "help.mp3"
+        },
+        {
+            "english": "say",
+            "phonetic": "/seɪ/",
+            "chinese": "说；讲",
+            "audioPath": "say.mp3"
+        },
+        {
+            "english": "and",
+            "phonetic": "/ænd/",
+            "chinese": "和；与",
+            "audioPath": "and.mp3"
+        },
+        {
+            "english": "goodbye",
+            "phonetic": "/gʊd'baɪ/",
+            "chinese": "再见",
+            "audioPath": "goodbye.mp3"
+        },
+        {
+            "english": "toy",
+            "phonetic": "/tɔɪ/",
+            "chinese": "玩具",
+            "audioPath": "toy.mp3"
+        },
+        {
+            "english": "friend",
+            "phonetic": "/frend/ ",
+            "chinese": "朋友",
+            "audioPath": "friend.mp3"
+        },
+        {
+            "english": "good",
+            "phonetic": "/gʊd/",
+            "chinese": "好的",
+            "audioPath": "good.mp3"
+        }
+    ]
+}

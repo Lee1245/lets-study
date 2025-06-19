@@ -1,0 +1,98 @@
+{
+    "grade": 4,
+    "semester": 1,
+    "unit": 5,
+    "unitName": "",
+    "words": [
+        {
+            "english": "beef",
+            "phonetic": "[biːf]",
+            "chinese": "牛肉",
+            "audioPath": "beef.mp3"
+        },
+        {
+            "english": "chicken",
+            "phonetic": "[ˈtʃɪkɪn]",
+            "chinese": "鸡肉",
+            "audioPath": "chicken.mp3"
+        },
+        {
+            "english": "noodles",
+            "phonetic": NaN,
+            "chinese": "面条",
+            "audioPath": "noodles.mp3"
+        },
+        {
+            "english": "soup",
+            "phonetic": "[suːp]",
+            "chinese": "汤",
+            "audioPath": "soup.mp3"
+        },
+        {
+            "english": "vegetable",
+            "phonetic": "['vedʒɪtəbl]",
+            "chinese": "蔬菜",
+            "audioPath": "vegetable.mp3"
+        },
+        {
+            "english": "chopsticks",
+            "phonetic": "[ˈtʃɒpstɪks]",
+            "chinese": "筷子",
+            "audioPath": "chopsticks.mp3"
+        },
+        {
+            "english": "bowl",
+            "phonetic": "[bəʊl]",
+            "chinese": "碗",
+            "audioPath": "bowl.mp3"
+        },
+        {
+            "english": "fork",
+            "phonetic": "[fɔːk]",
+            "chinese": "餐叉",
+            "audioPath": "fork.mp3"
+        },
+        {
+            "english": "knife",
+            "phonetic": "[naɪf]",
+            "chinese": "刀",
+            "audioPath": "knife.mp3"
+        },
+        {
+            "english": "spoon",
+            "phonetic": "[spuːn]",
+            "chinese": "勺",
+            "audioPath": "spoon.mp3"
+        },
+        {
+            "english": "dinner",
+            "phonetic": "['dɪnə]",
+            "chinese": "正餐",
+            "audioPath": "dinner.mp3"
+        },
+        {
+            "english": "ready",
+            "phonetic": "['redi]",
+            "chinese": "准备好",
+            "audioPath": "ready.mp3"
+        },
+        {
+            "english": "help yourself",
+            "phonetic": NaN,
+            "chinese": "为（自己）取用",
+            "audioPath": "help_yourself.mp3"
+        },
+        {
+            "english": "pass",
+            "phonetic": "[pɑːs]",
+            "chinese": "给；递",
+            "audioPath": "pass.mp3"
+        },
+        {
+            "english": "try",
+            "phonetic": "[traɪ]",
+            "chinese": "试；尝试",
+            "audioPath": "try.mp3"
+        }
+    ]
+}

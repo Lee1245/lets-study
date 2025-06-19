@@ -1,0 +1,80 @@
+{
+    "grade": 3,
+    "semester": 2,
+    "unit": 6,
+    "unitName": "",
+    "words": [
+        {
+            "english": "eleven",
+            "phonetic": "[ɪ'levn]",
+            "chinese": "十一",
+            "audioPath": "eleven.mp3"
+        },
+        {
+            "english": "twelve",
+            "phonetic": "[twelv]",
+            "chinese": "十二",
+            "audioPath": "twelve.mp3"
+        },
+        {
+            "english": "thirteen",
+            "phonetic": "['θɜːtiːn]",
+            "chinese": "十三",
+            "audioPath": "thirteen.mp3"
+        },
+        {
+            "english": "fourteen",
+            "phonetic": "['fɔː'tiːn]",
+            "chinese": "十四",
+            "audioPath": "fourteen.mp3"
+        },
+        {
+            "english": "fifteen",
+            "phonetic": "['fɪf'tiːn]",
+            "chinese": "十五",
+            "audioPath": "fifteen.mp3"
+        },
+        {
+            "english": "sixteen",
+            "phonetic": "[ˈsɪksti]",
+            "chinese": "十六",
+            "audioPath": "sixteen.mp3"
+        },
+        {
+            "english": "seventeen",
+            "phonetic": "[sevənˈtiːn]",
+            "chinese": "十七",
+            "audioPath": "seventeen.mp3"
+        },
+        {
+            "english": "eighteen",
+            "phonetic": "[ˈeɪˈtiːn]",
+            "chinese": "十八",
+            "audioPath": "eighteen.mp3"
+        },
+        {
+            "english": "nineteen",
+            "phonetic": "[naɪnˈtiːn]",
+            "chinese": "十九",
+            "audioPath": "nineteen.mp3"
+        },
+        {
+            "english": "twenty",
+            "phonetic": "[ˈtwenti]",
+            "chinese": "二十",
+            "audioPath": "twenty.mp3"
+        },
+        {
+            "english": "kite",
+            "phonetic": "[kaɪt]",
+            "chinese": "风筝",
+            "audioPath": "kite.mp3"
+        },
+        {
+            "english": "beautiful",
+            "phonetic": "['bjuːtəfəl]",
+            "chinese": "美丽的",
+            "audioPath": "beautiful.mp3"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "grade": 5,
+    "semester": 2,
+    "unit": 1,
+    "unitName": "",
+    "words": [
+        {
+            "english": "eat breakfast",
+            "phonetic": NaN,
+            "chinese": "吃早饭",
+            "audioPath": "eat_breakfast.mp3"
+        },
+        {
+            "english": "have…class",
+            "phonetic": NaN,
+            "chinese": "上……课",
+            "audioPath": "have_class.mp3"
+        },
+        {
+            "english": "play sports",
+            "phonetic": NaN,
+            "chinese": "进行体育运动",
+            "audioPath": "play_sports.mp3"
+        },
+        {
+            "english": "exercise",
+            "phonetic": "['eksəsaɪz]",
+            "chinese": "活动；运动",
+            "audioPath": "exercise.mp3"
+        },
+        {
+            "english": "do morning exercise",
+            "phonetic": NaN,
+            "chinese": "做早操",
+            "audioPath": "do_morning_exercise.mp3"
+        },
+        {
+            "english": "eat dinner",
+            "phonetic": NaN,
+            "chinese": "吃晚饭",
+            "audioPath": "eat_dinner.mp3"
+        },
+        {
+            "english": "clean my room",
+            "phonetic": NaN,
+            "chinese": "打扫我的房间",
+            "audioPath": "clean_my_room.mp3"
+        },
+        {
+            "english": "go for a walk",
+            "phonetic": NaN,
+            "chinese": "散步",
+            "audioPath": "go_for_a_walk.mp3"
+        },
+        {
+            "english": "go shopping",
+            "phonetic": NaN,
+            "chinese": "去买东西；购物",
+            "audioPath": "go_shopping.mp3"
+        },
+        {
+            "english": "take",
+            "phonetic": "[teɪk]",
+            "chinese": "学习；上（课）",
+            "audioPath": "take.mp3"
+        },
+        {
+            "english": "dancing",
+            "phonetic": NaN,
+            "chinese": "跳舞；舞蹈",
+            "audioPath": "dancing.mp3"
+        },
+        {
+            "english": "take a dancing class",
+            "phonetic": NaN,
+            "chinese": "上舞蹈课",
+            "audioPath": "take_a_dancing_class.mp3"
+        },
+        {
+            "english": "when",
+            "phonetic": "[hwen]",
+            "chinese": "什么时候；何时",
+            "audioPath": "when.mp3"
+        },
+        {
+            "english": "after",
+            "phonetic": "['ɑːftə]",
+            "chinese": "在（时间）之后",
+            "audioPath": "after.mp3"
+        },
+        {
+            "english": "start",
+            "phonetic": "[stɑːt]",
+            "chinese": "开始",
+            "audioPath": "start.mp3"
+        },
+        {
+            "english": "usually",
+            "phonetic": "['juːʒʊəli]",
+            "chinese": "通常地；惯常的",
+            "audioPath": "usually.mp3"
+        },
+        {
+            "english": "Spain",
+            "phonetic": "[speɪn]",
+            "chinese": "西班牙",
+            "audioPath": "spain.mp3"
+        },
+        {
+            "english": "late",
+            "phonetic": "[leɪt]",
+            "chinese": "晚；迟",
+            "audioPath": "late.mp3"
+        },
+        {
+            "english": "a.m.",
+            "phonetic": "[ˈæntɪmeˈrɪdɪem]",
+            "chinese": "午前；上午",
+            "audioPath": "a_m.mp3"
+        },
+        {
+            "english": "p.m.",
+            "phonetic": "[piːem]",
+            "chinese": "午后；下午",
+            "audioPath": "p_m.mp3"
+        },
+        {
+            "english": "why",
+            "phonetic": "[hwaɪ]",
+            "chinese": "为什么",
+            "audioPath": "why.mp3"
+        },
+        {
+            "english": "shop",
+            "phonetic": "[ʃɒp]",
+            "chinese": "去买东西；购物",
+            "audioPath": "shop.mp3"
+        },
+        {
+            "english": "work",
+            "phonetic": "[wɜːk]",
+            "chinese": "工作",
+            "audioPath": "work.mp3"
+        },
+        {
+            "english": "last",
+            "phonetic": "[lɑːst]",
+            "chinese": "上一个的；刚过去的",
+            "audioPath": "last.mp3"
+        },
+        {
+            "english": "sound",
+            "phonetic": "[saʊnd]",
+            "chinese": "听起来好像",
+            "audioPath": "sound.mp3"
+        },
+        {
+            "english": "also",
+            "phonetic": "['ɔːlsəʊ]",
+            "chinese": "还；也",
+            "audioPath": "also.mp3"
+        },
+        {
+            "english": "busy",
+            "phonetic": "['bɪzi]",
+            "chinese": "忙的",
+            "audioPath": "busy.mp3"
+        },
+        {
+            "english": "need",
+            "phonetic": "[niːd]",
+            "chinese": "需要",
+            "audioPath": "need.mp3"
+        },
+        {
+            "english": "play",
+            "phonetic": "[pleɪ]",
+            "chinese": "戏剧；剧本",
+            "audioPath": "play.mp3"
+        },
+        {
+            "english": "letter",
+            "phonetic": "['letə]",
+            "chinese": "信",
+            "audioPath": "letter.mp3"
+        },
+        {
+            "english": "live",
+            "phonetic": "[lɪv]",
+            "chinese": "居住",
+            "audioPath": "live.mp3"
+        },
+        {
+            "english": "island",
+            "phonetic": "['aɪlənd]",
+            "chinese": "岛",
+            "audioPath": "island.mp3"
+        },
+        {
+            "english": "always",
+            "phonetic": "['ɔːlweɪz]",
+            "chinese": "总是；一直",
+            "audioPath": "always.mp3"
+        },
+        {
+            "english": "cave",
+            "phonetic": "[keɪv]",
+            "chinese": "山洞；洞穴",
+            "audioPath": "cave.mp3"
+        },
+        {
+            "english": "go swimming",
+            "phonetic": NaN,
+            "chinese": "去游泳",
+            "audioPath": "go_swimming.mp3"
+        },
+        {
+            "english": "win",
+            "phonetic": "[wɪn]",
+            "chinese": "获胜",
+            "audioPath": "win.mp3"
+        }
+    ]
+}

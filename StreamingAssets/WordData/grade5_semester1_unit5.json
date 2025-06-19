@@ -1,0 +1,158 @@
+{
+    "grade": 5,
+    "semester": 1,
+    "unit": 5,
+    "unitName": "",
+    "words": [
+        {
+            "english": "clock",
+            "phonetic": "[klɒk]",
+            "chinese": "时钟",
+            "audioPath": "clock.mp3"
+        },
+        {
+            "english": "plant",
+            "phonetic": "[plɑːnt]",
+            "chinese": "植物",
+            "audioPath": "plant.mp3"
+        },
+        {
+            "english": "bottle",
+            "phonetic": "[ˈbɒtl]",
+            "chinese": "瓶子",
+            "audioPath": "bottle.mp3"
+        },
+        {
+            "english": "water bottle",
+            "phonetic": NaN,
+            "chinese": "水瓶",
+            "audioPath": "water_bottle.mp3"
+        },
+        {
+            "english": "bike",
+            "phonetic": "[baɪk]",
+            "chinese": "自行车",
+            "audioPath": "bike.mp3"
+        },
+        {
+            "english": "photo",
+            "phonetic": "['fəʊtəʊ]",
+            "chinese": "照片；相片",
+            "audioPath": "photo.mp3"
+        },
+        {
+            "english": "front",
+            "phonetic": "[frʌnt]",
+            "chinese": "正面",
+            "audioPath": "front.mp3"
+        },
+        {
+            "english": "in front of",
+            "phonetic": NaN,
+            "chinese": "在……前面",
+            "audioPath": "in_front_of.mp3"
+        },
+        {
+            "english": "between",
+            "phonetic": "[bɪ'twiːn]",
+            "chinese": "在……中间",
+            "audioPath": "between.mp3"
+        },
+        {
+            "english": "above",
+            "phonetic": "[ə'bʌv]",
+            "chinese": "在……上面",
+            "audioPath": "above.mp3"
+        },
+        {
+            "english": "beside",
+            "phonetic": "[bɪ'saɪd]",
+            "chinese": "在旁边",
+            "audioPath": "beside.mp3"
+        },
+        {
+            "english": "behind",
+            "phonetic": "[bɪ'haɪnd]",
+            "chinese": "在……`后面",
+            "audioPath": "behind.mp3"
+        },
+        {
+            "english": "there",
+            "phonetic": "[ðeə]",
+            "chinese": "（表示存在或发生）",
+            "audioPath": "there.mp3"
+        },
+        {
+            "english": "garandparent",
+            "phonetic": NaN,
+            "chinese": "（外）祖父母",
+            "audioPath": "garandparent.mp3"
+        },
+        {
+            "english": "their",
+            "phonetic": "[ðeə]",
+            "chinese": "他们的",
+            "audioPath": "their.mp3"
+        },
+        {
+            "english": "house",
+            "phonetic": "[haʊs]",
+            "chinese": "房屋；房子",
+            "audioPath": "house.mp3"
+        },
+        {
+            "english": "lot",
+            "phonetic": "[lɒt]",
+            "chinese": "大量；许多",
+            "audioPath": "lot.mp3"
+        },
+        {
+            "english": "lots of",
+            "phonetic": NaN,
+            "chinese": "大量；许多",
+            "audioPath": "lots_of.mp3"
+        },
+        {
+            "english": "flower",
+            "phonetic": "['flaʊə]",
+            "chinese": "花；花朵",
+            "audioPath": "flower.mp3"
+        },
+        {
+            "english": "move",
+            "phonetic": "[muːv]",
+            "chinese": "搬家",
+            "audioPath": "move.mp3"
+        },
+        {
+            "english": "dirty",
+            "phonetic": "['dɜːti]",
+            "chinese": "肮脏的",
+            "audioPath": "dirty.mp3"
+        },
+        {
+            "english": "everywhere",
+            "phonetic": "['evrɪhweə]",
+            "chinese": "处处；到处",
+            "audioPath": "everywhere.mp3"
+        },
+        {
+            "english": "mouse",
+            "phonetic": "[maʊs]",
+            "chinese": "老鼠",
+            "audioPath": "mouse.mp3"
+        },
+        {
+            "english": "live",
+            "phonetic": "[lɪv]",
+            "chinese": "居住",
+            "audioPath": "live.mp3"
+        },
+        {
+            "english": "nature",
+            "phonetic": "[ˈneɪtʃə]",
+            "chinese": "自然界；大自然",
+            "audioPath": "nature.mp3"
+        }
+    ]
+}

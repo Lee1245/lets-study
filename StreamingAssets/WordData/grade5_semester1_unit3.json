@@ -1,0 +1,104 @@
+{
+    "grade": 5,
+    "semester": 1,
+    "unit": 3,
+    "unitName": "",
+    "words": [
+        {
+            "english": "sandwich",
+            "phonetic": "['sændwɪtʃ]",
+            "chinese": "三明治",
+            "audioPath": "sandwich.mp3"
+        },
+        {
+            "english": "salad",
+            "phonetic": "[ˈsæləd]",
+            "chinese": "蔬菜沙拉",
+            "audioPath": "salad.mp3"
+        },
+        {
+            "english": "hamburger",
+            "phonetic": "['hæmbɜːgə]",
+            "chinese": "汉堡包",
+            "audioPath": "hamburger.mp3"
+        },
+        {
+            "english": "ice cream",
+            "phonetic": NaN,
+            "chinese": "冰激凌",
+            "audioPath": "ice_cream.mp3"
+        },
+        {
+            "english": "tea",
+            "phonetic": "[tiː]",
+            "chinese": "茶；茶水",
+            "audioPath": "tea.mp3"
+        },
+        {
+            "english": "fresh",
+            "phonetic": "[freʃ]",
+            "chinese": "新鲜的；刚摘的",
+            "audioPath": "fresh.mp3"
+        },
+        {
+            "english": "healthy",
+            "phonetic": "['helθi]",
+            "chinese": "健康的",
+            "audioPath": "healthy.mp3"
+        },
+        {
+            "english": "delicious",
+            "phonetic": "[dɪ'lɪʃəs]",
+            "chinese": "美味的；可口的",
+            "audioPath": "delicious.mp3"
+        },
+        {
+            "english": "hot",
+            "phonetic": "[hɒt]",
+            "chinese": "辣的",
+            "audioPath": "hot.mp3"
+        },
+        {
+            "english": "sweet",
+            "phonetic": "[swiːt]",
+            "chinese": "甜的",
+            "audioPath": "sweet.mp3"
+        },
+        {
+            "english": "drink",
+            "phonetic": "[drɪŋk]",
+            "chinese": "喝；饮",
+            "audioPath": "drink.mp3"
+        },
+        {
+            "english": "thirsty",
+            "phonetic": "['θɜːsti]",
+            "chinese": "口渴的",
+            "audioPath": "thirsty.mp3"
+        },
+        {
+            "english": "favourite",
+            "phonetic": "['feɪvərɪt]",
+            "chinese": "特别喜爱的",
+            "audioPath": "favourite.mp3"
+        },
+        {
+            "english": "food",
+            "phonetic": "[fuːd]",
+            "chinese": "食物",
+            "audioPath": "food.mp3"
+        },
+        {
+            "english": "Dear",
+            "phonetic": "[dɪə]",
+            "chinese": "亲爱的",
+            "audioPath": "dear.mp3"
+        },
+        {
+            "english": "onion",
+            "phonetic": "['ʌnjən]",
+            "chinese": "洋葱",
+            "audioPath": "onion.mp3"
+        }
+    ]
+}

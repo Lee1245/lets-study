@@ -1,0 +1,122 @@
+{
+    "grade": 3,
+    "semester": 1,
+    "unit": 4,
+    "unitName": "",
+    "words": [
+        {
+            "english": "apple",
+            "phonetic": "/'æp(ə)l/",
+            "chinese": "苹果",
+            "audioPath": "apple.mp3"
+        },
+        {
+            "english": "banana",
+            "phonetic": "/bə'nɑːnə/ ",
+            "chinese": "香蕉",
+            "audioPath": "banana.mp3"
+        },
+        {
+            "english": "farm",
+            "phonetic": "/fɑːm/ ",
+            "chinese": "农场",
+            "audioPath": "farm.mp3"
+        },
+        {
+            "english": "air",
+            "phonetic": "/eə/ ",
+            "chinese": "空气",
+            "audioPath": "air.mp3"
+        },
+        {
+            "english": "orange",
+            "phonetic": "/ˈɔrindʒ/ ",
+            "chinese": "橙子",
+            "audioPath": "orange.mp3"
+        },
+        {
+            "english": "grape",
+            "phonetic": "/ɡreɪp/ ",
+            "chinese": "葡萄",
+            "audioPath": "grape.mp3"
+        },
+        {
+            "english": "school",
+            "phonetic": "/skuːl/ ",
+            "chinese": "学校",
+            "audioPath": "school.mp3"
+        },
+        {
+            "english": "garden",
+            "phonetic": "/ˈɡɑ:dn/ ",
+            "chinese": "花园",
+            "audioPath": "garden.mp3"
+        },
+        {
+            "english": "need",
+            "phonetic": "/niːd/ ",
+            "chinese": "需要",
+            "audioPath": "need.mp3"
+        },
+        {
+            "english": "water",
+            "phonetic": "/ˈwɔːtə(r)/ ",
+            "chinese": "/ˈwɔːtə(r)/ 给……浇水；水",
+            "audioPath": "water.mp3"
+        },
+        {
+            "english": "flower",
+            "phonetic": " /'flaʊə/ ",
+            "chinese": "花",
+            "audioPath": "flower.mp3"
+        },
+        {
+            "english": "grass",
+            "phonetic": "/grɑːs/ ",
+            "chinese": "草；草地",
+            "audioPath": "grass.mp3"
+        },
+        {
+            "english": "plant",
+            "phonetic": "/plɑːnt/",
+            "chinese": " 种植；植物",
+            "audioPath": "plant.mp3"
+        },
+        {
+            "english": "new",
+            "phonetic": "/njuː/ ",
+            "chinese": "新的",
+            "audioPath": "new.mp3"
+        },
+        {
+            "english": "tree",
+            "phonetic": "/triː/ ",
+            "chinese": "树",
+            "audioPath": "tree.mp3"
+        },
+        {
+            "english": "sun",
+            "phonetic": "/sʌn/ ",
+            "chinese": "太阳",
+            "audioPath": "sun.mp3"
+        },
+        {
+            "english": "give",
+            "phonetic": " /gɪv/ ",
+            "chinese": "给",
+            "audioPath": "give.mp3"
+        },
+        {
+            "english": "us",
+            "phonetic": "/ʌs/",
+            "chinese": "我们",
+            "audioPath": "us.mp3"
+        },
+        {
+            "english": "them",
+            "phonetic": "/ðəm/",
+            "chinese": "它们；他们；她们",
+            "audioPath": "them.mp3"
+        }
+    ]
+}

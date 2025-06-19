@@ -1,0 +1,134 @@
+{
+    "grade": 6,
+    "semester": 2,
+    "unit": 1,
+    "unitName": "",
+    "words": [
+        {
+            "english": "younger",
+            "phonetic": "[ˈjʌŋɡə]",
+            "chinese": "更年轻的（young）",
+            "audioPath": "younger.mp3"
+        },
+        {
+            "english": "older",
+            "phonetic": NaN,
+            "chinese": "更年长的（old）",
+            "audioPath": "older.mp3"
+        },
+        {
+            "english": "taller",
+            "phonetic": NaN,
+            "chinese": "更高的（tall）",
+            "audioPath": "taller.mp3"
+        },
+        {
+            "english": "shorter",
+            "phonetic": NaN,
+            "chinese": "更矮的；更短的",
+            "audioPath": "shorter.mp3"
+        },
+        {
+            "english": "longer",
+            "phonetic": NaN,
+            "chinese": "更长的（long）",
+            "audioPath": "longer.mp3"
+        },
+        {
+            "english": "thinner",
+            "phonetic": NaN,
+            "chinese": "更瘦的（thin）",
+            "audioPath": "thinner.mp3"
+        },
+        {
+            "english": "heavier",
+            "phonetic": NaN,
+            "chinese": "更重的（heavy）",
+            "audioPath": "heavier.mp3"
+        },
+        {
+            "english": "bigger",
+            "phonetic": NaN,
+            "chinese": "更大的（big）",
+            "audioPath": "bigger.mp3"
+        },
+        {
+            "english": "smaller",
+            "phonetic": NaN,
+            "chinese": "更小的（small）",
+            "audioPath": "smaller.mp3"
+        },
+        {
+            "english": "stronger",
+            "phonetic": NaN,
+            "chinese": "更强壮的（strong）",
+            "audioPath": "stronger.mp3"
+        },
+        {
+            "english": "dinosaur",
+            "phonetic": "['daɪnəsɔː]",
+            "chinese": "恐龙",
+            "audioPath": "dinosaur.mp3"
+        },
+        {
+            "english": "hall",
+            "phonetic": "[hɔːl]",
+            "chinese": "大厅",
+            "audioPath": "hall.mp3"
+        },
+        {
+            "english": "metre",
+            "phonetic": "['miːtə]",
+            "chinese": "米",
+            "audioPath": "metre.mp3"
+        },
+        {
+            "english": "than",
+            "phonetic": "[ðæn]",
+            "chinese": "比",
+            "audioPath": "than.mp3"
+        },
+        {
+            "english": "both",
+            "phonetic": "[bəʊθ]",
+            "chinese": "两个都",
+            "audioPath": "both.mp3"
+        },
+        {
+            "english": "kilogram",
+            "phonetic": "[ˈkɪləɡræm]",
+            "chinese": "千克；公斤",
+            "audioPath": "kilogram.mp3"
+        },
+        {
+            "english": "countryside",
+            "phonetic": "['kʌntrɪ'saɪd]",
+            "chinese": "乡村",
+            "audioPath": "countryside.mp3"
+        },
+        {
+            "english": "lower",
+            "phonetic": NaN,
+            "chinese": "更低的（low）",
+            "audioPath": "lower.mp3"
+        },
+        {
+            "english": "shadow",
+            "phonetic": "[ˈʃædəʊ]",
+            "chinese": "阴影；影子",
+            "audioPath": "shadow.mp3"
+        },
+        {
+            "english": "smarter",
+            "phonetic": NaN,
+            "chinese": "更聪明的（smart）",
+            "audioPath": "smarter.mp3"
+        },
+        {
+            "english": "become",
+            "phonetic": "[bɪ'kʌm]",
+            "chinese": "变成",
+            "audioPath": "become.mp3"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "grade": 6,
+    "semester": 2,
+    "unit": 3,
+    "unitName": "",
+    "words": [
+        {
+            "english": "went",
+            "phonetic": "[went]",
+            "chinese": "去（go）",
+            "audioPath": "went.mp3"
+        },
+        {
+            "english": "camp",
+            "phonetic": "[kæmp]",
+            "chinese": "野营",
+            "audioPath": "camp.mp3"
+        },
+        {
+            "english": "went camping",
+            "phonetic": NaN,
+            "chinese": "野营",
+            "audioPath": "went_camping.mp3"
+        },
+        {
+            "english": "fish",
+            "phonetic": "[fɪʃ]",
+            "chinese": "钓鱼",
+            "audioPath": "fish.mp3"
+        },
+        {
+            "english": "went fishing",
+            "phonetic": NaN,
+            "chinese": "去钓鱼",
+            "audioPath": "went_fishing.mp3"
+        },
+        {
+            "english": "rode",
+            "phonetic": "[rəʊd]",
+            "chinese": "骑",
+            "audioPath": "rode.mp3"
+        },
+        {
+            "english": "hurt",
+            "phonetic": "[hɜːt]",
+            "chinese": "受伤（hurt）",
+            "audioPath": "hurt.mp3"
+        },
+        {
+            "english": "ate",
+            "phonetic": "[eɪt]",
+            "chinese": "吃（eat）",
+            "audioPath": "ate.mp3"
+        },
+        {
+            "english": "took",
+            "phonetic": "[teɪk]",
+            "chinese": "拍照（take）",
+            "audioPath": "took.mp3"
+        },
+        {
+            "english": "took pictures",
+            "phonetic": NaN,
+            "chinese": "照相",
+            "audioPath": "took_pictures.mp3"
+        },
+        {
+            "english": "bought",
+            "phonetic": "[bɔːt]",
+            "chinese": "买（buy）",
+            "audioPath": "bought.mp3"
+        },
+        {
+            "english": "gift",
+            "phonetic": "[ɡɪft]",
+            "chinese": "礼物",
+            "audioPath": "gift.mp3"
+        },
+        {
+            "english": "fell",
+            "phonetic": "[fel]",
+            "chinese": "摔倒（fall）",
+            "audioPath": "fell.mp3"
+        },
+        {
+            "english": "off",
+            "phonetic": "[ˈɒf]",
+            "chinese": "落下",
+            "audioPath": "off.mp3"
+        },
+        {
+            "english": "Labour Day",
+            "phonetic": "[ˈleɪbə]",
+            "chinese": "劳动节",
+            "audioPath": "labour_day.mp3"
+        },
+        {
+            "english": "mule",
+            "phonetic": NaN,
+            "chinese": "骡子",
+            "audioPath": "mule.mp3"
+        },
+        {
+            "english": "Turpan",
+            "phonetic": NaN,
+            "chinese": "吐鲁番",
+            "audioPath": "turpan.mp3"
+        },
+        {
+            "english": "could",
+            "phonetic": "[kʊd]",
+            "chinese": "能（can）",
+            "audioPath": "could.mp3"
+        },
+        {
+            "english": "till",
+            "phonetic": "[tɪl]",
+            "chinese": "直到",
+            "audioPath": "till.mp3"
+        },
+        {
+            "english": "beach",
+            "phonetic": "[biːtʃ]",
+            "chinese": "沙滩",
+            "audioPath": "beach.mp3"
+        },
+        {
+            "english": "basket",
+            "phonetic": "['bɑːskɪt]",
+            "chinese": "篮；框",
+            "audioPath": "basket.mp3"
+        },
+        {
+            "english": "part",
+            "phonetic": "[pɑːt]",
+            "chinese": "角色",
+            "audioPath": "part.mp3"
+        },
+        {
+            "english": "licked",
+            "phonetic": NaN,
+            "chinese": "舔（lick）",
+            "audioPath": "licked.mp3"
+        },
+        {
+            "english": "laughed",
+            "phonetic": NaN,
+            "chinese": "笑（laugh）",
+            "audioPath": "laughed.mp3"
+        }
+    ]
+}

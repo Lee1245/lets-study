@@ -1,0 +1,194 @@
+{
+    "grade": 6,
+    "semester": 1,
+    "unit": 6,
+    "unitName": "",
+    "words": [
+        {
+            "english": "angry",
+            "phonetic": "['æŋgri]",
+            "chinese": "生气的",
+            "audioPath": "angry.mp3"
+        },
+        {
+            "english": "afraid",
+            "phonetic": "[ə'freɪd]",
+            "chinese": "害怕",
+            "audioPath": "afraid.mp3"
+        },
+        {
+            "english": "sad",
+            "phonetic": "[sæd]",
+            "chinese": "难过的",
+            "audioPath": "sad.mp3"
+        },
+        {
+            "english": "worried",
+            "phonetic": "['wʌrɪd]",
+            "chinese": "担心的；发愁的",
+            "audioPath": "worried.mp3"
+        },
+        {
+            "english": "happy",
+            "phonetic": "['hæpi]",
+            "chinese": "高兴的",
+            "audioPath": "happy.mp3"
+        },
+        {
+            "english": "see a doctor",
+            "phonetic": NaN,
+            "chinese": "看病",
+            "audioPath": "see_a_doctor.mp3"
+        },
+        {
+            "english": "wear",
+            "phonetic": "[weə]",
+            "chinese": "穿",
+            "audioPath": "wear.mp3"
+        },
+        {
+            "english": "more",
+            "phonetic": "[mɔː]",
+            "chinese": "更多的",
+            "audioPath": "more.mp3"
+        },
+        {
+            "english": "deep",
+            "phonetic": "[diːp]",
+            "chinese": "深的",
+            "audioPath": "deep.mp3"
+        },
+        {
+            "english": "breath",
+            "phonetic": "[breθ]",
+            "chinese": "呼吸",
+            "audioPath": "breath.mp3"
+        },
+        {
+            "english": "take a deep breath",
+            "phonetic": NaN,
+            "chinese": "深呼吸",
+            "audioPath": "take_a_deep_breath.mp3"
+        },
+        {
+            "english": "count",
+            "phonetic": "[kaʊnt]",
+            "chinese": "数数",
+            "audioPath": "count.mp3"
+        },
+        {
+            "english": "count to ten",
+            "phonetic": NaN,
+            "chinese": "数到十",
+            "audioPath": "count_to_ten.mp3"
+        },
+        {
+            "english": "chase",
+            "phonetic": "[tʃeɪs]",
+            "chinese": "追赶",
+            "audioPath": "chase.mp3"
+        },
+        {
+            "english": "mice",
+            "phonetic": "[maɪs]",
+            "chinese": "老鼠（mouse的复数）",
+            "audioPath": "mice.mp3"
+        },
+        {
+            "english": "bad",
+            "phonetic": "[bæd]",
+            "chinese": "邪恶的；坏的",
+            "audioPath": "bad.mp3"
+        },
+        {
+            "english": "hurt",
+            "phonetic": "[hɜːt]",
+            "chinese": "受伤",
+            "audioPath": "hurt.mp3"
+        },
+        {
+            "english": "ill",
+            "phonetic": "[ɪl]",
+            "chinese": "有病；不舒服",
+            "audioPath": "ill.mp3"
+        },
+        {
+            "english": "wrong",
+            "phonetic": "[rɔːŋ]",
+            "chinese": "有毛病",
+            "audioPath": "wrong.mp3"
+        },
+        {
+            "english": "should",
+            "phonetic": "[ʃʊd]",
+            "chinese": "应该",
+            "audioPath": "should.mp3"
+        },
+        {
+            "english": "feel",
+            "phonetic": "[fiːl]",
+            "chinese": "觉得；感到",
+            "audioPath": "feel.mp3"
+        },
+        {
+            "english": "well",
+            "phonetic": "[wel]",
+            "chinese": "健康；身体好",
+            "audioPath": "well.mp3"
+        },
+        {
+            "english": "sit",
+            "phonetic": "[sɪt]",
+            "chinese": "坐",
+            "audioPath": "sit.mp3"
+        },
+        {
+            "english": "grass",
+            "phonetic": "[grɑːs]",
+            "chinese": "草坪",
+            "audioPath": "grass.mp3"
+        },
+        {
+            "english": "hear",
+            "phonetic": "[hɪə]",
+            "chinese": "听见",
+            "audioPath": "hear.mp3"
+        },
+        {
+            "english": "ant",
+            "phonetic": "[ænt]",
+            "chinese": "蚂蚁",
+            "audioPath": "ant.mp3"
+        },
+        {
+            "english": "worry",
+            "phonetic": "['wʌri]",
+            "chinese": "担心；担忧",
+            "audioPath": "worry.mp3"
+        },
+        {
+            "english": "stuck",
+            "phonetic": NaN,
+            "chinese": "陷住；无法移动",
+            "audioPath": "stuck.mp3"
+        },
+        {
+            "english": "mud",
+            "phonetic": "[mʌd]",
+            "chinese": "泥",
+            "audioPath": "mud.mp3"
+        },
+        {
+            "english": "pull",
+            "phonetic": "[pʊl]",
+            "chinese": "拉；拽",
+            "audioPath": "pull.mp3"
+        },
+        {
+            "english": "everyone",
+            "phonetic": "['evrɪwʌn]",
+            "chinese": "每人",
+            "audioPath": "everyone.mp3"
+        }
+    ]
+}

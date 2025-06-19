@@ -1,0 +1,80 @@
+{
+    "grade": 3,
+    "semester": 2,
+    "unit": 2,
+    "unitName": "",
+    "words": [
+        {
+            "english": "father",
+            "phonetic": "['fɑːðə]",
+            "chinese": "父亲；爸爸",
+            "audioPath": "father.mp3"
+        },
+        {
+            "english": "dad",
+            "phonetic": "    [dæd]",
+            "chinese": "爸爸（口语）",
+            "audioPath": "dad.mp3"
+        },
+        {
+            "english": "Man ",
+            "phonetic": "[mæn]",
+            "chinese": "男人",
+            "audioPath": "man.mp3"
+        },
+        {
+            "english": "woman",
+            "phonetic": "['wʊmən]",
+            "chinese": "女人",
+            "audioPath": "woman.mp3"
+        },
+        {
+            "english": "mother",
+            "phonetic": "['mʌðə]",
+            "chinese": "母亲；妈妈",
+            "audioPath": "mother.mp3"
+        },
+        {
+            "english": "sister",
+            "phonetic": "['sɪstə]",
+            "chinese": "姐；妹",
+            "audioPath": "sister.mp3"
+        },
+        {
+            "english": "brother",
+            "phonetic": "['brʌðə]",
+            "chinese": "兄；弟",
+            "audioPath": "brother.mp3"
+        },
+        {
+            "english": "grandmother",
+            "phonetic": "['grændˌmʌðə]",
+            "chinese": "（外）祖母",
+            "audioPath": "grandmother.mp3"
+        },
+        {
+            "english": "Grandma ",
+            "phonetic": "['grændmɑː]",
+            "chinese": "（口语）祖母",
+            "audioPath": "grandma.mp3"
+        },
+        {
+            "english": "grandfather",
+            "phonetic": "['grændˌfɑːðə]",
+            "chinese": "（外）祖父",
+            "audioPath": "grandfather.mp3"
+        },
+        {
+            "english": "grandpa",
+            "phonetic": "    ['grændpɑː]",
+            "chinese": "（口语）祖父",
+            "audioPath": "grandpa.mp3"
+        },
+        {
+            "english": "family",
+            "phonetic": "    ['fæmɪli]",
+            "chinese": "家；家庭",
+            "audioPath": "family.mp3"
+        }
+    ]
+}

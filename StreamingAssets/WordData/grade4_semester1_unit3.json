@@ -1,0 +1,74 @@
+{
+    "grade": 4,
+    "semester": 1,
+    "unit": 3,
+    "unitName": "",
+    "words": [
+        {
+            "english": "strong",
+            "phonetic": "[strɒŋ]",
+            "chinese": "强壮的",
+            "audioPath": "strong.mp3"
+        },
+        {
+            "english": "friendly",
+            "phonetic": "['frendli]",
+            "chinese": "友好的",
+            "audioPath": "friendly.mp3"
+        },
+        {
+            "english": "quiet",
+            "phonetic": "['kwaɪət]",
+            "chinese": "安静的",
+            "audioPath": "quiet.mp3"
+        },
+        {
+            "english": "hair",
+            "phonetic": "[heə]",
+            "chinese": "头发",
+            "audioPath": "hair.mp3"
+        },
+        {
+            "english": "shoe",
+            "phonetic": "[ʃuː]",
+            "chinese": "鞋",
+            "audioPath": "shoe.mp3"
+        },
+        {
+            "english": "glasses",
+            "phonetic": "['glɑːsɪz]",
+            "chinese": "眼镜",
+            "audioPath": "glasses.mp3"
+        },
+        {
+            "english": "his",
+            "phonetic": "[hɪz]",
+            "chinese": "他的",
+            "audioPath": "his.mp3"
+        },
+        {
+            "english": "or",
+            "phonetic": "[ɔː]",
+            "chinese": "或者",
+            "audioPath": "or.mp3"
+        },
+        {
+            "english": "right",
+            "phonetic": "[raɪt]",
+            "chinese": "正确的；对的",
+            "audioPath": "right.mp3"
+        },
+        {
+            "english": "hat",
+            "phonetic": "[hæt]",
+            "chinese": "帽子",
+            "audioPath": "hat.mp3"
+        },
+        {
+            "english": "her",
+            "phonetic": "[hɜː]",
+            "chinese": "她的",
+            "audioPath": "her.mp3"
+        }
+    ]
+}

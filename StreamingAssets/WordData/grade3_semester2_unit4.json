@@ -1,0 +1,80 @@
+{
+    "grade": 3,
+    "semester": 2,
+    "unit": 4,
+    "unitName": "",
+    "words": [
+        {
+            "english": "on",
+            "phonetic": "    [ɒn]",
+            "chinese": "在……上面",
+            "audioPath": "on.mp3"
+        },
+        {
+            "english": "In   ",
+            "phonetic": "[ɪn]",
+            "chinese": "在……里面",
+            "audioPath": "in.mp3"
+        },
+        {
+            "english": "under",
+            "phonetic": "['ʌndə]",
+            "chinese": "在……下面",
+            "audioPath": "under.mp3"
+        },
+        {
+            "english": "chair",
+            "phonetic": "[tʃeə]",
+            "chinese": "椅子",
+            "audioPath": "chair.mp3"
+        },
+        {
+            "english": "desk",
+            "phonetic": "[desk]",
+            "chinese": "书桌",
+            "audioPath": "desk.mp3"
+        },
+        {
+            "english": "cap",
+            "phonetic": "[kæp]",
+            "chinese": "帽子",
+            "audioPath": "cap.mp3"
+        },
+        {
+            "english": "ball",
+            "phonetic": "[bɔːl]",
+            "chinese": "球",
+            "audioPath": "ball.mp3"
+        },
+        {
+            "english": "car",
+            "phonetic": "[kɑː]",
+            "chinese": "小汽车",
+            "audioPath": "car.mp3"
+        },
+        {
+            "english": "boat",
+            "phonetic": "[bəʊt]",
+            "chinese": "小船",
+            "audioPath": "boat.mp3"
+        },
+        {
+            "english": "map",
+            "phonetic": "[mæp]",
+            "chinese": "地图",
+            "audioPath": "map.mp3"
+        },
+        {
+            "english": "toy",
+            "phonetic": "[tɔɪ]",
+            "chinese": "玩具",
+            "audioPath": "toy.mp3"
+        },
+        {
+            "english": "box",
+            "phonetic": "[bɒks]",
+            "chinese": "盒；箱",
+            "audioPath": "box.mp3"
+        }
+    ]
+}

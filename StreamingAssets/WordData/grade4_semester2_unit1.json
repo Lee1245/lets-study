@@ -1,0 +1,98 @@
+{
+    "grade": 4,
+    "semester": 2,
+    "unit": 1,
+    "unitName": "",
+    "words": [
+        {
+            "english": "first floor",
+            "phonetic": NaN,
+            "chinese": "一楼",
+            "audioPath": "first_floor.mp3"
+        },
+        {
+            "english": "second floor",
+            "phonetic": NaN,
+            "chinese": "二楼",
+            "audioPath": "second_floor.mp3"
+        },
+        {
+            "english": "teachers'office",
+            "phonetic": NaN,
+            "chinese": "教师办公室",
+            "audioPath": "teachers_office.mp3"
+        },
+        {
+            "english": "library",
+            "phonetic": "['laɪbrəri]",
+            "chinese": "图书馆",
+            "audioPath": "library.mp3"
+        },
+        {
+            "english": "playground",
+            "phonetic": "['pleɪgraʊnd]",
+            "chinese": "操场",
+            "audioPath": "playground.mp3"
+        },
+        {
+            "english": "computer room",
+            "phonetic": NaN,
+            "chinese": "计算机房",
+            "audioPath": "computer_room.mp3"
+        },
+        {
+            "english": "art room",
+            "phonetic": NaN,
+            "chinese": "美术教室",
+            "audioPath": "art_room.mp3"
+        },
+        {
+            "english": "music room",
+            "phonetic": NaN,
+            "chinese": "音乐教室",
+            "audioPath": "music_room.mp3"
+        },
+        {
+            "english": "next to",
+            "phonetic": "['neksttə]",
+            "chinese": "紧邻",
+            "audioPath": "next_to.mp3"
+        },
+        {
+            "english": "homework",
+            "phonetic": "['həʊmwɜːk]",
+            "chinese": "作业",
+            "audioPath": "homework.mp3"
+        },
+        {
+            "english": "class",
+            "phonetic": "[klɑːs]",
+            "chinese": "班；班级",
+            "audioPath": "class.mp3"
+        },
+        {
+            "english": "forty",
+            "phonetic": "[ˈfɔːti]",
+            "chinese": "四十",
+            "audioPath": "forty.mp3"
+        },
+        {
+            "english": "way",
+            "phonetic": "[weɪ]",
+            "chinese": "方向",
+            "audioPath": "way.mp3"
+        },
+        {
+            "english": "fly",
+            "phonetic": "[flaɪ]",
+            "chinese": "放（风筝等）",
+            "audioPath": "fly.mp3"
+        },
+        {
+            "english": "love",
+            "phonetic": "[lʌv]",
+            "chinese": "爱",
+            "audioPath": "love.mp3"
+        }
+    ]
+}

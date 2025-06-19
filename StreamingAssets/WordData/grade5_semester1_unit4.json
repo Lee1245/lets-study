@@ -1,0 +1,170 @@
+{
+    "grade": 5,
+    "semester": 1,
+    "unit": 4,
+    "unitName": "",
+    "words": [
+        {
+            "english": "sing",
+            "phonetic": "[sɪŋ]",
+            "chinese": "唱歌",
+            "audioPath": "sing.mp3"
+        },
+        {
+            "english": "song",
+            "phonetic": "[sɒŋ]",
+            "chinese": "歌曲",
+            "audioPath": "song.mp3"
+        },
+        {
+            "english": "sing English song",
+            "phonetic": NaN,
+            "chinese": "唱英文歌曲",
+            "audioPath": "sing_english_song.mp3"
+        },
+        {
+            "english": "play the pipa",
+            "phonetic": NaN,
+            "chinese": "弹琵琶",
+            "audioPath": "play_the_pipa.mp3"
+        },
+        {
+            "english": "kung fu",
+            "phonetic": NaN,
+            "chinese": "功夫；武术",
+            "audioPath": "kung_fu.mp3"
+        },
+        {
+            "english": "do kung fu",
+            "phonetic": NaN,
+            "chinese": "练功夫",
+            "audioPath": "do_kung_fu.mp3"
+        },
+        {
+            "english": "dance",
+            "phonetic": "[dɑːns]",
+            "chinese": "跳舞",
+            "audioPath": "dance.mp3"
+        },
+        {
+            "english": "draw",
+            "phonetic": "[drɔː]",
+            "chinese": "画",
+            "audioPath": "draw.mp3"
+        },
+        {
+            "english": "cartoon",
+            "phonetic": "[kɑːˈtuːn]",
+            "chinese": "漫画",
+            "audioPath": "cartoon.mp3"
+        },
+        {
+            "english": "draw cartoons",
+            "phonetic": NaN,
+            "chinese": "画漫画",
+            "audioPath": "draw_cartoons.mp3"
+        },
+        {
+            "english": "cook",
+            "phonetic": "[kʊk]",
+            "chinese": "烹饪",
+            "audioPath": "cook.mp3"
+        },
+        {
+            "english": "swim",
+            "phonetic": "[swɪm]",
+            "chinese": "游泳",
+            "audioPath": "swim.mp3"
+        },
+        {
+            "english": "play basketball",
+            "phonetic": NaN,
+            "chinese": "打篮球",
+            "audioPath": "play_basketball.mp3"
+        },
+        {
+            "english": "play ping-pong",
+            "phonetic": NaN,
+            "chinese": "打乒乓球",
+            "audioPath": "play_ping_pong.mp3"
+        },
+        {
+            "english": "speak English",
+            "phonetic": NaN,
+            "chinese": "说英语",
+            "audioPath": "speak_english.mp3"
+        },
+        {
+            "english": "we'll = we will",
+            "phonetic": NaN,
+            "chinese": "我们将",
+            "audioPath": "we_ll_we_will.mp3"
+        },
+        {
+            "english": "party",
+            "phonetic": "['pɑːti]",
+            "chinese": "聚会；派对",
+            "audioPath": "party.mp3"
+        },
+        {
+            "english": "next",
+            "phonetic": "['nekst]",
+            "chinese": "下一个的；紧接着的",
+            "audioPath": "next.mp3"
+        },
+        {
+            "english": "wonderful",
+            "phonetic": "['wʌndəfəl]",
+            "chinese": "极好的；了不起的",
+            "audioPath": "wonderful.mp3"
+        },
+        {
+            "english": "learn",
+            "phonetic": "[lɜːn]",
+            "chinese": "学；学习",
+            "audioPath": "learn.mp3"
+        },
+        {
+            "english": "any",
+            "phonetic": "['eni]",
+            "chinese": "任何的；任一的",
+            "audioPath": "any.mp3"
+        },
+        {
+            "english": "problem",
+            "phonetic": "[ˈprɒbləm]",
+            "chinese": "问题",
+            "audioPath": "problem.mp3"
+        },
+        {
+            "english": "no problem",
+            "phonetic": NaN,
+            "chinese": "没问题",
+            "audioPath": "no_problem.mp3"
+        },
+        {
+            "english": "want",
+            "phonetic": "[wɒnt]",
+            "chinese": "要；想要",
+            "audioPath": "want.mp3"
+        },
+        {
+            "english": "send",
+            "phonetic": "[send]",
+            "chinese": "邮寄；发送",
+            "audioPath": "send.mp3"
+        },
+        {
+            "english": "email",
+            "phonetic": "[ˈiːmeɪl]",
+            "chinese": "电子邮件",
+            "audioPath": "email.mp3"
+        },
+        {
+            "english": "at",
+            "phonetic": "[æt]",
+            "chinese": "（后面接邮件地址）",
+            "audioPath": "at.mp3"
+        }
+    ]
+}
