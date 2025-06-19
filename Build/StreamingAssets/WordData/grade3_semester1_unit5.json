@@ -1,0 +1,104 @@
+{
+    "grade": 3,
+    "semester": 1,
+    "unit": 5,
+    "unitName": "",
+    "words": [
+        {
+            "english": "colour",
+            "phonetic": "/'kʌlə/ ",
+            "chinese": "颜色",
+            "audioPath": "colour.mp3"
+        },
+        {
+            "english": "orange",
+            "phonetic": "/ˈɔrindʒ/",
+            "chinese": " 橙红色；橙红色的",
+            "audioPath": "orange.mp3"
+        },
+        {
+            "english": "green ",
+            "phonetic": "/ɡriːn/ ",
+            "chinese": "绿色；绿色的",
+            "audioPath": "green.mp3"
+        },
+        {
+            "english": "red",
+            "phonetic": "/red/ ",
+            "chinese": "红色；红色的",
+            "audioPath": "red.mp3"
+        },
+        {
+            "english": "blue",
+            "phonetic": "/bluː/ ",
+            "chinese": "蓝色；蓝色的",
+            "audioPath": "blue.mp3"
+        },
+        {
+            "english": "make",
+            "phonetic": "/meɪk/ ",
+            "chinese": "使出现；做",
+            "audioPath": "make.mp3"
+        },
+        {
+            "english": "purple",
+            "phonetic": "/'pɜːp(ə)l/ ",
+            "chinese": "紫色；紫色的",
+            "audioPath": "purple.mp3"
+        },
+        {
+            "english": "brown",
+            "phonetic": "/braʊn/ ",
+            "chinese": "棕色；棕色的",
+            "audioPath": "brown.mp3"
+        },
+        {
+            "english": "bear",
+            "phonetic": "/beə(r)/ ",
+            "chinese": "熊",
+            "audioPath": "bear.mp3"
+        },
+        {
+            "english": "yellow",
+            "phonetic": "/'jeləʊ/ ",
+            "chinese": "黄色（的）",
+            "audioPath": "yellow.mp3"
+        },
+        {
+            "english": "duck",
+            "phonetic": "/dʌk/ ",
+            "chinese": "鸭",
+            "audioPath": "duck.mp3"
+        },
+        {
+            "english": "sea",
+            "phonetic": " /siː/ ",
+            "chinese": "海洋",
+            "audioPath": "sea.mp3"
+        },
+        {
+            "english": "pink",
+            "phonetic": " /pɪŋk/ ",
+            "chinese": "粉色；粉色的",
+            "audioPath": "pink.mp3"
+        },
+        {
+            "english": "draw",
+            "phonetic": "/drɔː/ ",
+            "chinese": "画",
+            "audioPath": "draw.mp3"
+        },
+        {
+            "english": "white",
+            "phonetic": "/waɪt/",
+            "chinese": " 白色（的）",
+            "audioPath": "white.mp3"
+        },
+        {
+            "english": "black",
+            "phonetic": " /blæk/ ",
+            "chinese": "黑色（的）",
+            "audioPath": "black.mp3"
+        }
+    ]
+}

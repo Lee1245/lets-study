@@ -1,0 +1,134 @@
+{
+    "grade": 6,
+    "semester": 1,
+    "unit": 5,
+    "unitName": "",
+    "words": [
+        {
+            "english": "factory",
+            "phonetic": "['fæktəri]",
+            "chinese": "工厂",
+            "audioPath": "factory.mp3"
+        },
+        {
+            "english": "worker",
+            "phonetic": "['wɜːkə]",
+            "chinese": "工人",
+            "audioPath": "worker.mp3"
+        },
+        {
+            "english": "postman",
+            "phonetic": "['pəʊstmən]",
+            "chinese": "邮递员",
+            "audioPath": "postman.mp3"
+        },
+        {
+            "english": "businessman",
+            "phonetic": "['bɪznɪsmæn]",
+            "chinese": "商人",
+            "audioPath": "businessman.mp3"
+        },
+        {
+            "english": "police office",
+            "phonetic": NaN,
+            "chinese": "警察",
+            "audioPath": "police_office.mp3"
+        },
+        {
+            "english": "fisherman",
+            "phonetic": "[ˈfɪʃəmən]",
+            "chinese": "渔民",
+            "audioPath": "fisherman.mp3"
+        },
+        {
+            "english": "scientist",
+            "phonetic": "['saɪəntɪst]",
+            "chinese": "科学家",
+            "audioPath": "scientist.mp3"
+        },
+        {
+            "english": "pilot",
+            "phonetic": "[ˈpaɪlət]",
+            "chinese": "飞行员",
+            "audioPath": "pilot.mp3"
+        },
+        {
+            "english": "coach",
+            "phonetic": "[kəʊtʃ]",
+            "chinese": "教练",
+            "audioPath": "coach.mp3"
+        },
+        {
+            "english": "country",
+            "phonetic": "['kʌntri]",
+            "chinese": "国家",
+            "audioPath": "country.mp3"
+        },
+        {
+            "english": "head teacher",
+            "phonetic": "[hed]",
+            "chinese": "校长",
+            "audioPath": "head_teacher.mp3"
+        },
+        {
+            "english": "sea",
+            "phonetic": "[siː]",
+            "chinese": "大海",
+            "audioPath": "sea.mp3"
+        },
+        {
+            "english": "stay",
+            "phonetic": "[steɪ]",
+            "chinese": "保持",
+            "audioPath": "stay.mp3"
+        },
+        {
+            "english": "university",
+            "phonetic": "[ˌjuːnɪ'vɜːsɪti]",
+            "chinese": "大学",
+            "audioPath": "university.mp3"
+        },
+        {
+            "english": "gym",
+            "phonetic": "[dʒɪm]",
+            "chinese": "体育馆",
+            "audioPath": "gym.mp3"
+        },
+        {
+            "english": "if",
+            "phonetic": "[ɪf]",
+            "chinese": "如果",
+            "audioPath": "if.mp3"
+        },
+        {
+            "english": "reporter",
+            "phonetic": "[rɪˈpɔːtə]",
+            "chinese": "记者",
+            "audioPath": "reporter.mp3"
+        },
+        {
+            "english": "use",
+            "phonetic": "[juːz]",
+            "chinese": "使用",
+            "audioPath": "use.mp3"
+        },
+        {
+            "english": "type",
+            "phonetic": "[taɪp]",
+            "chinese": "打字",
+            "audioPath": "type.mp3"
+        },
+        {
+            "english": "quickly",
+            "phonetic": "['kwɪkli]",
+            "chinese": "迅速的",
+            "audioPath": "quickly.mp3"
+        },
+        {
+            "english": "secretary",
+            "phonetic": "[ˈsekrətri]",
+            "chinese": "秘书",
+            "audioPath": "secretary.mp3"
+        }
+    ]
+}

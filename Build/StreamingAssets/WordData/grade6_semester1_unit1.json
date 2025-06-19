@@ -1,0 +1,158 @@
+{
+    "grade": 6,
+    "semester": 1,
+    "unit": 1,
+    "unitName": "",
+    "words": [
+        {
+            "english": "science",
+            "phonetic": "['saɪəns]",
+            "chinese": "科学",
+            "audioPath": "science.mp3"
+        },
+        {
+            "english": "museum",
+            "phonetic": "[mjuː'zɪəm]",
+            "chinese": "博物馆",
+            "audioPath": "museum.mp3"
+        },
+        {
+            "english": "post office",
+            "phonetic": NaN,
+            "chinese": "邮局",
+            "audioPath": "post_office.mp3"
+        },
+        {
+            "english": "bookstore",
+            "phonetic": "[ˈbʊkstɔː]",
+            "chinese": "书店",
+            "audioPath": "bookstore.mp3"
+        },
+        {
+            "english": "cinema",
+            "phonetic": "[ˈsɪnəmə]",
+            "chinese": "电影院",
+            "audioPath": "cinema.mp3"
+        },
+        {
+            "english": "hospital",
+            "phonetic": "[ˈhɒspɪtl]",
+            "chinese": "医院",
+            "audioPath": "hospital.mp3"
+        },
+        {
+            "english": "crossing",
+            "phonetic": "['krɔːsɪŋ]",
+            "chinese": "十字路口",
+            "audioPath": "crossing.mp3"
+        },
+        {
+            "english": "turn",
+            "phonetic": "[tɜːn]",
+            "chinese": "转弯",
+            "audioPath": "turn.mp3"
+        },
+        {
+            "english": "left",
+            "phonetic": "[left]",
+            "chinese": "左",
+            "audioPath": "left.mp3"
+        },
+        {
+            "english": "straight",
+            "phonetic": "[streɪt]",
+            "chinese": "笔直的",
+            "audioPath": "straight.mp3"
+        },
+        {
+            "english": "right",
+            "phonetic": "[raɪt]",
+            "chinese": "右",
+            "audioPath": "right.mp3"
+        },
+        {
+            "english": "ask",
+            "phonetic": "[ɑːsk]",
+            "chinese": "问",
+            "audioPath": "ask.mp3"
+        },
+        {
+            "english": "sir",
+            "phonetic": "[sɜː]",
+            "chinese": "先生",
+            "audioPath": "sir.mp3"
+        },
+        {
+            "english": "interesting",
+            "phonetic": "['ɪntərɪstɪŋ]",
+            "chinese": "有趣的",
+            "audioPath": "interesting.mp3"
+        },
+        {
+            "english": "Italian",
+            "phonetic": "[ɪ'tæljən]",
+            "chinese": "意大利的",
+            "audioPath": "italian.mp3"
+        },
+        {
+            "english": "restaurant",
+            "phonetic": "[ˈrestərɒnt]",
+            "chinese": "餐馆",
+            "audioPath": "restaurant.mp3"
+        },
+        {
+            "english": "pizza",
+            "phonetic": "['piːtsə]",
+            "chinese": "比萨饼",
+            "audioPath": "pizza.mp3"
+        },
+        {
+            "english": "street",
+            "phonetic": "[striːt]",
+            "chinese": "大街；街道",
+            "audioPath": "street.mp3"
+        },
+        {
+            "english": "get",
+            "phonetic": "[get]",
+            "chinese": "到达",
+            "audioPath": "get.mp3"
+        },
+        {
+            "english": "GPS",
+            "phonetic": NaN,
+            "chinese": "全球（卫星）定位系统",
+            "audioPath": "gps.mp3"
+        },
+        {
+            "english": "gave",
+            "phonetic": "[geɪv]",
+            "chinese": "提供；交给（give的过去时）",
+            "audioPath": "gave.mp3"
+        },
+        {
+            "english": "feature",
+            "phonetic": "[fiːtʃə]",
+            "chinese": "特点",
+            "audioPath": "feature.mp3"
+        },
+        {
+            "english": "follow",
+            "phonetic": "[ˈfɒləʊ]",
+            "chinese": "跟着",
+            "audioPath": "follow.mp3"
+        },
+        {
+            "english": "far",
+            "phonetic": "[fɑː]",
+            "chinese": "较远的",
+            "audioPath": "far.mp3"
+        },
+        {
+            "english": "tell",
+            "phonetic": "[tel]",
+            "chinese": "告诉",
+            "audioPath": "tell.mp3"
+        }
+    ]
+}

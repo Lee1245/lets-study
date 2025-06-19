@@ -1,0 +1,110 @@
+{
+    "grade": 3,
+    "semester": 1,
+    "unit": 6,
+    "unitName": "",
+    "words": [
+        {
+            "english": "old",
+            "phonetic": "/əʊld/ ",
+            "chinese": "（多少）岁；年纪；旧的",
+            "audioPath": "old.mp3"
+        },
+        {
+            "english": "five",
+            "phonetic": "/faɪv/",
+            "chinese": "五",
+            "audioPath": "five.mp3"
+        },
+        {
+            "english": "year",
+            "phonetic": "/jɪə/ ",
+            "chinese": "年纪；年",
+            "audioPath": "year.mp3"
+        },
+        {
+            "english": "one",
+            "phonetic": "/wʌn/ ",
+            "chinese": "一",
+            "audioPath": "one.mp3"
+        },
+        {
+            "english": "teo",
+            "phonetic": "/tuː/ ",
+            "chinese": "二",
+            "audioPath": "teo.mp3"
+        },
+        {
+            "english": "three",
+            "phonetic": "/θriː/ ",
+            "chinese": "三",
+            "audioPath": "three.mp3"
+        },
+        {
+            "english": "four",
+            "phonetic": "/fɔː/ ",
+            "chinese": "四",
+            "audioPath": "four.mp3"
+        },
+        {
+            "english": "ten",
+            "phonetic": "/ten/ ",
+            "chinese": "十",
+            "audioPath": "ten.mp3"
+        },
+        {
+            "english": "six",
+            "phonetic": " /sɪks/",
+            "chinese": " 六",
+            "audioPath": "six.mp3"
+        },
+        {
+            "english": "seven",
+            "phonetic": "/'sev(ə)n/ ",
+            "chinese": "七",
+            "audioPath": "seven.mp3"
+        },
+        {
+            "english": "eight",
+            "phonetic": "/eɪt/ ",
+            "chinese": "八",
+            "audioPath": "eight.mp3"
+        },
+        {
+            "english": "nine",
+            "phonetic": "/naɪn/ ",
+            "chinese": "九",
+            "audioPath": "nine.mp3"
+        },
+        {
+            "english": "o'clock",
+            "phonetic": " /ə'klɔk/ ",
+            "chinese": "（表示整点）……点钟",
+            "audioPath": "o_clock.mp3"
+        },
+        {
+            "english": "cut",
+            "phonetic": "/kʌt/",
+            "chinese": "切块",
+            "audioPath": "cut.mp3"
+        },
+        {
+            "english": "piece",
+            "phonetic": "/piːs/ ",
+            "chinese": "块；片",
+            "audioPath": "piece.mp3"
+        },
+        {
+            "english": "eat",
+            "phonetic": "/iːt/",
+            "chinese": "吃",
+            "audioPath": "eat.mp3"
+        },
+        {
+            "english": "cake",
+            "phonetic": "/keɪk/ ",
+            "chinese": "蛋糕",
+            "audioPath": "cake.mp3"
+        }
+    ]
+}

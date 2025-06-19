@@ -1,0 +1,104 @@
+{
+    "grade": 4,
+    "semester": 2,
+    "unit": 4,
+    "unitName": "",
+    "words": [
+        {
+            "english": "tomato",
+            "phonetic": "[tə'meɪtəʊ]",
+            "chinese": "西红柿",
+            "audioPath": "tomato.mp3"
+        },
+        {
+            "english": "potato",
+            "phonetic": "[pə'teɪtəʊ]",
+            "chinese": "马铃薯",
+            "audioPath": "potato.mp3"
+        },
+        {
+            "english": "green beans",
+            "phonetic": NaN,
+            "chinese": "豆角",
+            "audioPath": "green_beans.mp3"
+        },
+        {
+            "english": "carrot",
+            "phonetic": "['kærət]",
+            "chinese": "胡萝卜",
+            "audioPath": "carrot.mp3"
+        },
+        {
+            "english": "horse",
+            "phonetic": "[hɔːs]",
+            "chinese": "马",
+            "audioPath": "horse.mp3"
+        },
+        {
+            "english": "cow",
+            "phonetic": "[kaʊ]",
+            "chinese": "母牛；奶牛",
+            "audioPath": "cow.mp3"
+        },
+        {
+            "english": "sheep",
+            "phonetic": "[ʃiːp]",
+            "chinese": "绵羊",
+            "audioPath": "sheep.mp3"
+        },
+        {
+            "english": "hen",
+            "phonetic": "[hen]",
+            "chinese": "母鸡",
+            "audioPath": "hen.mp3"
+        },
+        {
+            "english": "these",
+            "phonetic": "[ðiːz]",
+            "chinese": "这些",
+            "audioPath": "these.mp3"
+        },
+        {
+            "english": "yum",
+            "phonetic": NaN,
+            "chinese": "味道很好",
+            "audioPath": "yum.mp3"
+        },
+        {
+            "english": "animal",
+            "phonetic": "['ænɪməl]",
+            "chinese": "动物",
+            "audioPath": "animal.mp3"
+        },
+        {
+            "english": "those",
+            "phonetic": "[ðəʊz]",
+            "chinese": "那些",
+            "audioPath": "those.mp3"
+        },
+        {
+            "english": "garden",
+            "phonetic": "['gɑːdn]",
+            "chinese": "花园；菜园",
+            "audioPath": "garden.mp3"
+        },
+        {
+            "english": "farm",
+            "phonetic": "[fɑːm]",
+            "chinese": "农场",
+            "audioPath": "farm.mp3"
+        },
+        {
+            "english": "goat",
+            "phonetic": "[ɡəʊt]",
+            "chinese": "山羊",
+            "audioPath": "goat.mp3"
+        },
+        {
+            "english": "eat",
+            "phonetic": "[iːt]",
+            "chinese": "吃",
+            "audioPath": "eat.mp3"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "grade": 5,
+    "semester": 2,
+    "unit": 3,
+    "unitName": "",
+    "words": [
+        {
+            "english": "January",
+            "phonetic": "['dʒænjʊeri]",
+            "chinese": "一月",
+            "audioPath": "january.mp3"
+        },
+        {
+            "english": "February",
+            "phonetic": "['febrʊəri]",
+            "chinese": "二月",
+            "audioPath": "february.mp3"
+        },
+        {
+            "english": "March",
+            "phonetic": "[mɑːtʃ]",
+            "chinese": "三月",
+            "audioPath": "march.mp3"
+        },
+        {
+            "english": "April",
+            "phonetic": "['eɪprəl]",
+            "chinese": "四月",
+            "audioPath": "april.mp3"
+        },
+        {
+            "english": "May",
+            "phonetic": "[meɪ]",
+            "chinese": "五月",
+            "audioPath": "may.mp3"
+        },
+        {
+            "english": "June",
+            "phonetic": "[dʒuːn]",
+            "chinese": "六月",
+            "audioPath": "june.mp3"
+        },
+        {
+            "english": "July",
+            "phonetic": "[dʒuː'laɪ]",
+            "chinese": "七月",
+            "audioPath": "july.mp3"
+        },
+        {
+            "english": "August",
+            "phonetic": "[ɔː'gʌst]",
+            "chinese": "八月",
+            "audioPath": "august.mp3"
+        },
+        {
+            "english": "September",
+            "phonetic": "[sep'tembə]",
+            "chinese": "九月",
+            "audioPath": "september.mp3"
+        },
+        {
+            "english": "October",
+            "phonetic": "[ɒkˈtəʊbə]",
+            "chinese": "十月",
+            "audioPath": "october.mp3"
+        },
+        {
+            "english": "November",
+            "phonetic": "[nəʊ'vembə]",
+            "chinese": "十一月",
+            "audioPath": "november.mp3"
+        },
+        {
+            "english": "December",
+            "phonetic": "[dɪ'sembə]",
+            "chinese": "十二月",
+            "audioPath": "december.mp3"
+        },
+        {
+            "english": "few",
+            "phonetic": "[fjuː]",
+            "chinese": "不多；很少",
+            "audioPath": "few.mp3"
+        },
+        {
+            "english": "a few",
+            "phonetic": NaN,
+            "chinese": "一些",
+            "audioPath": "a_few.mp3"
+        },
+        {
+            "english": "thing",
+            "phonetic": "[θɪŋ]",
+            "chinese": "事情",
+            "audioPath": "thing.mp3"
+        },
+        {
+            "english": "meet",
+            "phonetic": "[miːt]",
+            "chinese": "集会；开会",
+            "audioPath": "meet.mp3"
+        },
+        {
+            "english": "sports meet",
+            "phonetic": NaN,
+            "chinese": "运动会",
+            "audioPath": "sports_meet.mp3"
+        },
+        {
+            "english": "Easter",
+            "phonetic": "[ˈiːstə]",
+            "chinese": "复活节",
+            "audioPath": "easter.mp3"
+        },
+        {
+            "english": "trip",
+            "phonetic": "[trɪp]",
+            "chinese": "旅行",
+            "audioPath": "trip.mp3"
+        },
+        {
+            "english": "year",
+            "phonetic": "[jɪə]",
+            "chinese": "年",
+            "audioPath": "year.mp3"
+        },
+        {
+            "english": "plant",
+            "phonetic": "[plɑːnt]",
+            "chinese": "种植",
+            "audioPath": "plant.mp3"
+        },
+        {
+            "english": "contest",
+            "phonetic": "[ˈkɒntest]",
+            "chinese": "比赛；竞赛",
+            "audioPath": "contest.mp3"
+        },
+        {
+            "english": "the Great Wall",
+            "phonetic": NaN,
+            "chinese": "长城",
+            "audioPath": "the_great_wall.mp3"
+        },
+        {
+            "english": "national",
+            "phonetic": "[ˈnæʃən(ə)l]",
+            "chinese": "国家的",
+            "audioPath": "national.mp3"
+        },
+        {
+            "english": "National Day",
+            "phonetic": "[ˈnæʃnəl]",
+            "chinese": "国庆日",
+            "audioPath": "national_day.mp3"
+        },
+        {
+            "english": "American",
+            "phonetic": "[ə'merɪkən]",
+            "chinese": "美国的",
+            "audioPath": "american.mp3"
+        },
+        {
+            "english": "Thanksgiving",
+            "phonetic": "[ˌθæŋks'gɪvɪŋ]",
+            "chinese": "感恩节",
+            "audioPath": "thanksgiving.mp3"
+        },
+        {
+            "english": "Christmas",
+            "phonetic": "['krɪsməs]",
+            "chinese": "圣诞节",
+            "audioPath": "christmas.mp3"
+        },
+        {
+            "english": "holiday",
+            "phonetic": "[ˈhɒlədi]",
+            "chinese": "假日；节日",
+            "audioPath": "holiday.mp3"
+        },
+        {
+            "english": "game",
+            "phonetic": "[geɪm]",
+            "chinese": "游戏",
+            "audioPath": "game.mp3"
+        },
+        {
+            "english": "roll",
+            "phonetic": "[rəʊl]",
+            "chinese": "滚动",
+            "audioPath": "roll.mp3"
+        },
+        {
+            "english": "look for",
+            "phonetic": "['lʊkfər]",
+            "chinese": "寻找",
+            "audioPath": "look_for.mp3"
+        },
+        {
+            "english": "chocolate",
+            "phonetic": "[ˈtʃɒkəlɪt]",
+            "chinese": "巧克力",
+            "audioPath": "chocolate.mp3"
+        },
+        {
+            "english": "bunny",
+            "phonetic": "['bʌni]",
+            "chinese": "兔子",
+            "audioPath": "bunny.mp3"
+        },
+        {
+            "english": "RSVP",
+            "phonetic": NaN,
+            "chinese": "请赐复",
+            "audioPath": "rsvp.mp3"
+        },
+        {
+            "english": "by",
+            "phonetic": "[baɪ]",
+            "chinese": "在……之前",
+            "audioPath": "by.mp3"
+        }
+    ]
+}

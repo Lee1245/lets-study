@@ -1,0 +1,86 @@
+{
+    "grade": 4,
+    "semester": 1,
+    "unit": 2,
+    "unitName": "",
+    "words": [
+        {
+            "english": "schoolbag",
+            "phonetic": "['skuːlˌbæg]",
+            "chinese": "书包",
+            "audioPath": "schoolbag.mp3"
+        },
+        {
+            "english": "maths book",
+            "phonetic": NaN,
+            "chinese": "数学书",
+            "audioPath": "maths_book.mp3"
+        },
+        {
+            "english": "English book",
+            "phonetic": NaN,
+            "chinese": "英语书",
+            "audioPath": "english_book.mp3"
+        },
+        {
+            "english": "Chinese book",
+            "phonetic": NaN,
+            "chinese": "语文书",
+            "audioPath": "chinese_book.mp3"
+        },
+        {
+            "english": "storybook",
+            "phonetic": NaN,
+            "chinese": "故事书",
+            "audioPath": "storybook.mp3"
+        },
+        {
+            "english": "candy",
+            "phonetic": "[ˈkændi]",
+            "chinese": "糖果",
+            "audioPath": "candy.mp3"
+        },
+        {
+            "english": "notebook",
+            "phonetic": "[ˈnəʊtbʊk]",
+            "chinese": "笔记本",
+            "audioPath": "notebook.mp3"
+        },
+        {
+            "english": "toy",
+            "phonetic": "[tɔɪ]",
+            "chinese": "玩具",
+            "audioPath": "toy.mp3"
+        },
+        {
+            "english": "key",
+            "phonetic": "[kiː]",
+            "chinese": "钥匙",
+            "audioPath": "key.mp3"
+        },
+        {
+            "english": "wow",
+            "phonetic": "[waʊ]",
+            "chinese": "哇；呀",
+            "audioPath": "wow.mp3"
+        },
+        {
+            "english": "lost",
+            "phonetic": "[lɒst]",
+            "chinese": "丢失",
+            "audioPath": "lost.mp3"
+        },
+        {
+            "english": "so much",
+            "phonetic": NaN,
+            "chinese": "非常地",
+            "audioPath": "so_much.mp3"
+        },
+        {
+            "english": "cute",
+            "phonetic": "[kjuːt]",
+            "chinese": "可爱的",
+            "audioPath": "cute.mp3"
+        }
+    ]
+}

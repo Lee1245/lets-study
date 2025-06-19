@@ -1,0 +1,176 @@
+{
+    "grade": 5,
+    "semester": 1,
+    "unit": 2,
+    "unitName": "",
+    "words": [
+        {
+            "english": "Monday",
+            "phonetic": "['mʌndeɪ]",
+            "chinese": "星期一",
+            "audioPath": "monday.mp3"
+        },
+        {
+            "english": "Tuesday",
+            "phonetic": "['tjuːzdi]",
+            "chinese": "星期二",
+            "audioPath": "tuesday.mp3"
+        },
+        {
+            "english": "Wednesday",
+            "phonetic": "['wenzdi]",
+            "chinese": "星期三",
+            "audioPath": "wednesday.mp3"
+        },
+        {
+            "english": "Thursday",
+            "phonetic": "['θɜːzdi]",
+            "chinese": "星期四",
+            "audioPath": "thursday.mp3"
+        },
+        {
+            "english": "Friday",
+            "phonetic": "['fraɪdi]",
+            "chinese": "星期五",
+            "audioPath": "friday.mp3"
+        },
+        {
+            "english": "Saturday",
+            "phonetic": "['sætədi]",
+            "chinese": "星期六",
+            "audioPath": "saturday.mp3"
+        },
+        {
+            "english": "Sunday",
+            "phonetic": "['sʌndi]",
+            "chinese": "星期日",
+            "audioPath": "sunday.mp3"
+        },
+        {
+            "english": "weekend",
+            "phonetic": "['wiːk'end]",
+            "chinese": "周末",
+            "audioPath": "weekend.mp3"
+        },
+        {
+            "english": "wash",
+            "phonetic": "[wɒʃ]",
+            "chinese": "洗",
+            "audioPath": "wash.mp3"
+        },
+        {
+            "english": "wash my clothes",
+            "phonetic": NaN,
+            "chinese": "洗我的衣服",
+            "audioPath": "wash_my_clothes.mp3"
+        },
+        {
+            "english": "watch",
+            "phonetic": "[wɒtʃ]",
+            "chinese": "看",
+            "audioPath": "watch.mp3"
+        },
+        {
+            "english": "watch TV",
+            "phonetic": NaN,
+            "chinese": "看电视",
+            "audioPath": "watch_tv.mp3"
+        },
+        {
+            "english": "do",
+            "phonetic": "[duː]",
+            "chinese": "做；干",
+            "audioPath": "do.mp3"
+        },
+        {
+            "english": "do homework",
+            "phonetic": NaN,
+            "chinese": "做作业",
+            "audioPath": "do_homework.mp3"
+        },
+        {
+            "english": "read",
+            "phonetic": "[riːd]",
+            "chinese": "看；读",
+            "audioPath": "read.mp3"
+        },
+        {
+            "english": "read books",
+            "phonetic": NaN,
+            "chinese": "看书",
+            "audioPath": "read_books.mp3"
+        },
+        {
+            "english": "play",
+            "phonetic": "[pleɪ]",
+            "chinese": "踢；玩；参加（运动）",
+            "audioPath": "play.mp3"
+        },
+        {
+            "english": "play football",
+            "phonetic": NaN,
+            "chinese": "踢足球",
+            "audioPath": "play_football.mp3"
+        },
+        {
+            "english": "cooking",
+            "phonetic": NaN,
+            "chinese": "烹饪",
+            "audioPath": "cooking.mp3"
+        },
+        {
+            "english": "often",
+            "phonetic": "['ɔːfən]",
+            "chinese": "时常；常常",
+            "audioPath": "often.mp3"
+        },
+        {
+            "english": "park",
+            "phonetic": "[pɑːk]",
+            "chinese": "公园",
+            "audioPath": "park.mp3"
+        },
+        {
+            "english": "tired",
+            "phonetic": "['taɪəd]",
+            "chinese": "疲倦的",
+            "audioPath": "tired.mp3"
+        },
+        {
+            "english": "sport",
+            "phonetic": "[spɔːt]",
+            "chinese": "体育运动",
+            "audioPath": "sport.mp3"
+        },
+        {
+            "english": "play sports",
+            "phonetic": NaN,
+            "chinese": "做体育运动",
+            "audioPath": "play_sports.mp3"
+        },
+        {
+            "english": "should",
+            "phonetic": "[ʃʊd]",
+            "chinese": "应该；应当",
+            "audioPath": "should.mp3"
+        },
+        {
+            "english": "every",
+            "phonetic": "['evri]",
+            "chinese": "每一个；每个",
+            "audioPath": "every.mp3"
+        },
+        {
+            "english": "day",
+            "phonetic": "[deɪ]",
+            "chinese": "一天；一日",
+            "audioPath": "day.mp3"
+        },
+        {
+            "english": "schedule",
+            "phonetic": "[ˈʃedjuːl]",
+            "chinese": "工作计划；日程安排",
+            "audioPath": "schedule.mp3"
+        }
+    ]
+}

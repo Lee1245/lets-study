@@ -1,0 +1,104 @@
+{
+    "grade": 4,
+    "semester": 2,
+    "unit": 5,
+    "unitName": "",
+    "words": [
+        {
+            "english": "clothes",
+            "phonetic": "[kləʊðz]",
+            "chinese": "衣服",
+            "audioPath": "clothes.mp3"
+        },
+        {
+            "english": "pants",
+            "phonetic": "[pænts]",
+            "chinese": "裤子",
+            "audioPath": "pants.mp3"
+        },
+        {
+            "english": "hat",
+            "phonetic": "[hæt]",
+            "chinese": "帽子",
+            "audioPath": "hat.mp3"
+        },
+        {
+            "english": "dress",
+            "phonetic": "[dres]",
+            "chinese": "连衣裙",
+            "audioPath": "dress.mp3"
+        },
+        {
+            "english": "skirt",
+            "phonetic": "[skɜːt]",
+            "chinese": "女裙",
+            "audioPath": "skirt.mp3"
+        },
+        {
+            "english": "coat",
+            "phonetic": "[kəʊt]",
+            "chinese": "外套；大衣",
+            "audioPath": "coat.mp3"
+        },
+        {
+            "english": "sweater",
+            "phonetic": "['swetə]",
+            "chinese": "毛衣",
+            "audioPath": "sweater.mp3"
+        },
+        {
+            "english": "sock",
+            "phonetic": "[sɒk]",
+            "chinese": "短袜",
+            "audioPath": "sock.mp3"
+        },
+        {
+            "english": "shorts",
+            "phonetic": "[ʃɔːts]",
+            "chinese": "短裤",
+            "audioPath": "shorts.mp3"
+        },
+        {
+            "english": "jacket",
+            "phonetic": "['dʒækɪt]",
+            "chinese": "夹克衫",
+            "audioPath": "jacket.mp3"
+        },
+        {
+            "english": "shirt",
+            "phonetic": "[ʃɜːt]",
+            "chinese": "衬衫",
+            "audioPath": "shirt.mp3"
+        },
+        {
+            "english": "yours",
+            "phonetic": "[jʊəz]",
+            "chinese": "你的；你们的",
+            "audioPath": "yours.mp3"
+        },
+        {
+            "english": "whose",
+            "phonetic": "[huːz]",
+            "chinese": "谁的",
+            "audioPath": "whose.mp3"
+        },
+        {
+            "english": "mine",
+            "phonetic": "[maɪn]",
+            "chinese": "我的",
+            "audioPath": "mine.mp3"
+        },
+        {
+            "english": "pack",
+            "phonetic": "[pæk]",
+            "chinese": "收拾（行李）",
+            "audioPath": "pack.mp3"
+        },
+        {
+            "english": "wait",
+            "phonetic": "[weɪt]",
+            "chinese": "等待",
+            "audioPath": "wait.mp3"
+        }
+    ]
+}

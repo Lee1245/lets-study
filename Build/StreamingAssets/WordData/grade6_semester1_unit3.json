@@ -1,0 +1,170 @@
+{
+    "grade": 6,
+    "semester": 1,
+    "unit": 3,
+    "unitName": "",
+    "words": [
+        {
+            "english": "visit",
+            "phonetic": "['vɪzɪt]",
+            "chinese": "拜访",
+            "audioPath": "visit.mp3"
+        },
+        {
+            "english": "film",
+            "phonetic": "[fɪlm]",
+            "chinese": "电影",
+            "audioPath": "film.mp3"
+        },
+        {
+            "english": "see a film",
+            "phonetic": NaN,
+            "chinese": "看电影",
+            "audioPath": "see_a_film.mp3"
+        },
+        {
+            "english": "trip",
+            "phonetic": "[trɪp]",
+            "chinese": "旅行",
+            "audioPath": "trip.mp3"
+        },
+        {
+            "english": "take a trip",
+            "phonetic": NaN,
+            "chinese": "去旅行",
+            "audioPath": "take_a_trip.mp3"
+        },
+        {
+            "english": "supermarket",
+            "phonetic": "['sjuːpəˌmɑːkɪt]",
+            "chinese": "超市",
+            "audioPath": "supermarket.mp3"
+        },
+        {
+            "english": "evening",
+            "phonetic": "['iːvnɪŋ]",
+            "chinese": "晚上；傍晚",
+            "audioPath": "evening.mp3"
+        },
+        {
+            "english": "tonight",
+            "phonetic": "[tə'naɪt]",
+            "chinese": "在今晚",
+            "audioPath": "tonight.mp3"
+        },
+        {
+            "english": "tomorrow",
+            "phonetic": "[tə'mɔːrəʊ]",
+            "chinese": "明天",
+            "audioPath": "tomorrow.mp3"
+        },
+        {
+            "english": "next week",
+            "phonetic": NaN,
+            "chinese": "下周",
+            "audioPath": "next_week.mp3"
+        },
+        {
+            "english": "dictionary",
+            "phonetic": "['dɪkʃəneri]",
+            "chinese": "词典",
+            "audioPath": "dictionary.mp3"
+        },
+        {
+            "english": "comic",
+            "phonetic": "[ˈkɒmɪk]",
+            "chinese": "滑稽的",
+            "audioPath": "comic.mp3"
+        },
+        {
+            "english": "comic book",
+            "phonetic": NaN,
+            "chinese": "连环画册",
+            "audioPath": "comic_book.mp3"
+        },
+        {
+            "english": "word",
+            "phonetic": "[wɜːd]",
+            "chinese": "单词",
+            "audioPath": "word.mp3"
+        },
+        {
+            "english": "word book",
+            "phonetic": NaN,
+            "chinese": "单词书",
+            "audioPath": "word_book.mp3"
+        },
+        {
+            "english": "postcard",
+            "phonetic": "['pəʊstˌkɑːd]",
+            "chinese": "明信片",
+            "audioPath": "postcard.mp3"
+        },
+        {
+            "english": "lesson",
+            "phonetic": "['lesn]",
+            "chinese": "课",
+            "audioPath": "lesson.mp3"
+        },
+        {
+            "english": "space",
+            "phonetic": "[speɪs]",
+            "chinese": "太空",
+            "audioPath": "space.mp3"
+        },
+        {
+            "english": "travel",
+            "phonetic": "['trævl]",
+            "chinese": "旅行",
+            "audioPath": "travel.mp3"
+        },
+        {
+            "english": "half",
+            "phonetic": "[hɑːf]",
+            "chinese": "一半",
+            "audioPath": "half.mp3"
+        },
+        {
+            "english": "price",
+            "phonetic": "[praɪs]",
+            "chinese": "价格",
+            "audioPath": "price.mp3"
+        },
+        {
+            "english": "Mid-Autumn Festival",
+            "phonetic": NaN,
+            "chinese": "中秋节",
+            "audioPath": "mid_autumn_festival.mp3"
+        },
+        {
+            "english": "together",
+            "phonetic": "[tə'geðə]",
+            "chinese": "一起",
+            "audioPath": "together.mp3"
+        },
+        {
+            "english": "get together",
+            "phonetic": NaN,
+            "chinese": "聚会",
+            "audioPath": "get_together.mp3"
+        },
+        {
+            "english": "mooncake",
+            "phonetic": "[muːnkeɪk]",
+            "chinese": "月饼",
+            "audioPath": "mooncake.mp3"
+        },
+        {
+            "english": "poem",
+            "phonetic": "[ˈpəʊɪm]",
+            "chinese": "诗",
+            "audioPath": "poem.mp3"
+        },
+        {
+            "english": "moon",
+            "phonetic": "[muːn]",
+            "chinese": "月亮",
+            "audioPath": "moon.mp3"
+        }
+    ]
+}

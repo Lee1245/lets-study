@@ -1,0 +1,74 @@
+{
+    "grade": 3,
+    "semester": 2,
+    "unit": 3,
+    "unitName": "",
+    "words": [
+        {
+            "english": "Thin  ",
+            "phonetic": "[θɪn]",
+            "chinese": "瘦的",
+            "audioPath": "thin.mp3"
+        },
+        {
+            "english": "Fat  ",
+            "phonetic": "[fæt]",
+            "chinese": "肥的",
+            "audioPath": "fat.mp3"
+        },
+        {
+            "english": "tall",
+            "phonetic": "    [tɔːl]",
+            "chinese": "高的",
+            "audioPath": "tall.mp3"
+        },
+        {
+            "english": "short",
+            "phonetic": "[ʃɔːt]",
+            "chinese": "矮的；短的",
+            "audioPath": "short.mp3"
+        },
+        {
+            "english": "long",
+            "phonetic": "    [lɒŋ]",
+            "chinese": "    长的",
+            "audioPath": "long.mp3"
+        },
+        {
+            "english": "small",
+            "phonetic": "[smɔːl]",
+            "chinese": "小的",
+            "audioPath": "small.mp3"
+        },
+        {
+            "english": "Big  ",
+            "phonetic": "[bɪg]",
+            "chinese": "大的",
+            "audioPath": "big.mp3"
+        },
+        {
+            "english": "giraffe",
+            "phonetic": "[dʒɪˈrɑːf]",
+            "chinese": "长颈鹿",
+            "audioPath": "giraffe.mp3"
+        },
+        {
+            "english": "so",
+            "phonetic": "    [səʊ]",
+            "chinese": "这么；那么",
+            "audioPath": "so.mp3"
+        },
+        {
+            "english": "children",
+            "phonetic": "['tʃɪldrən]",
+            "chinese": "儿童（child的复数）",
+            "audioPath": "children.mp3"
+        },
+        {
+            "english": "Tail  ",
+            "phonetic": "[teɪl]",
+            "chinese": "尾巴",
+            "audioPath": "tail.mp3"
+        }
+    ]
+}

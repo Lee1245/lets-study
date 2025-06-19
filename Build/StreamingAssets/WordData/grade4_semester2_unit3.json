@@ -1,0 +1,128 @@
+{
+    "grade": 4,
+    "semester": 2,
+    "unit": 3,
+    "unitName": "",
+    "words": [
+        {
+            "english": "cold",
+            "phonetic": "[kəʊld]",
+            "chinese": "冷的",
+            "audioPath": "cold.mp3"
+        },
+        {
+            "english": "cool",
+            "phonetic": "[kuːl]",
+            "chinese": "凉的",
+            "audioPath": "cool.mp3"
+        },
+        {
+            "english": "warm",
+            "phonetic": "[wɔːm]",
+            "chinese": "温暖的",
+            "audioPath": "warm.mp3"
+        },
+        {
+            "english": "hot",
+            "phonetic": "[hɒt]",
+            "chinese": "热的",
+            "audioPath": "hot.mp3"
+        },
+        {
+            "english": "sunny",
+            "phonetic": "['sʌni]",
+            "chinese": "阳光充足的",
+            "audioPath": "sunny.mp3"
+        },
+        {
+            "english": "windy",
+            "phonetic": "['wɪndi]",
+            "chinese": "多风的",
+            "audioPath": "windy.mp3"
+        },
+        {
+            "english": "cloudy",
+            "phonetic": "['klaʊdi]",
+            "chinese": "阴天的",
+            "audioPath": "cloudy.mp3"
+        },
+        {
+            "english": "snowy",
+            "phonetic": "[snəʊi]",
+            "chinese": "下雪的",
+            "audioPath": "snowy.mp3"
+        },
+        {
+            "english": "rainy",
+            "phonetic": "['reɪni]",
+            "chinese": "多雨的",
+            "audioPath": "rainy.mp3"
+        },
+        {
+            "english": "outside",
+            "phonetic": "['aʊt'saɪd]",
+            "chinese": "在户外",
+            "audioPath": "outside.mp3"
+        },
+        {
+            "english": "be careful",
+            "phonetic": NaN,
+            "chinese": "小心",
+            "audioPath": "be_careful.mp3"
+        },
+        {
+            "english": "weather",
+            "phonetic": "['weðə]",
+            "chinese": "天气",
+            "audioPath": "weather.mp3"
+        },
+        {
+            "english": "New York",
+            "phonetic": "['njuːleɪd]",
+            "chinese": "纽约",
+            "audioPath": "new_york.mp3"
+        },
+        {
+            "english": "how about",
+            "phonetic": NaN,
+            "chinese": "……怎么样？",
+            "audioPath": "how_about.mp3"
+        },
+        {
+            "english": "degree",
+            "phonetic": "[dɪˈɡriː]",
+            "chinese": "度",
+            "audioPath": "degree.mp3"
+        },
+        {
+            "english": "world",
+            "phonetic": "[wɜːld]",
+            "chinese": "世界",
+            "audioPath": "world.mp3"
+        },
+        {
+            "english": "London",
+            "phonetic": "['lʌndən]",
+            "chinese": "伦敦",
+            "audioPath": "london.mp3"
+        },
+        {
+            "english": "Moscow",
+            "phonetic": "[ˈmɒskəʊ]",
+            "chinese": "莫斯科",
+            "audioPath": "moscow.mp3"
+        },
+        {
+            "english": "Singapore",
+            "phonetic": "[ˌsɪŋgəˌpɔː]",
+            "chinese": "新加坡",
+            "audioPath": "singapore.mp3"
+        },
+        {
+            "english": "Sydney",
+            "phonetic": "['sɪdni]",
+            "chinese": "悉尼",
+            "audioPath": "sydney.mp3"
+        }
+    ]
+}

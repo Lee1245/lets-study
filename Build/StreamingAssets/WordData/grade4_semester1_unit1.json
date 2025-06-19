@@ -1,0 +1,104 @@
+{
+    "grade": 4,
+    "semester": 1,
+    "unit": 1,
+    "unitName": "",
+    "words": [
+        {
+            "english": "classroom",
+            "phonetic": "['klɑːsrʊm]",
+            "chinese": "教室",
+            "audioPath": "classroom.mp3"
+        },
+        {
+            "english": "window",
+            "phonetic": "['wɪndəʊ]",
+            "chinese": "窗户",
+            "audioPath": "window.mp3"
+        },
+        {
+            "english": "blackboard",
+            "phonetic": "['blækbɔːd]",
+            "chinese": "黑板",
+            "audioPath": "blackboard.mp3"
+        },
+        {
+            "english": "light",
+            "phonetic": "[laɪt]",
+            "chinese": "电灯",
+            "audioPath": "light.mp3"
+        },
+        {
+            "english": "picture",
+            "phonetic": "['pɪktʃə]",
+            "chinese": "图画",
+            "audioPath": "picture.mp3"
+        },
+        {
+            "english": "door",
+            "phonetic": "[dɔː]",
+            "chinese": "门",
+            "audioPath": "door.mp3"
+        },
+        {
+            "english": "teacher's desk",
+            "phonetic": NaN,
+            "chinese": "讲台",
+            "audioPath": "teacher_s_desk.mp3"
+        },
+        {
+            "english": "computer",
+            "phonetic": "[kəm'pjuːtə]",
+            "chinese": "计算机",
+            "audioPath": "computer.mp3"
+        },
+        {
+            "english": "fan",
+            "phonetic": "[fæn]",
+            "chinese": "风扇",
+            "audioPath": "fan.mp3"
+        },
+        {
+            "english": "wall",
+            "phonetic": "[wɔːl]",
+            "chinese": "墙壁",
+            "audioPath": "wall.mp3"
+        },
+        {
+            "english": "floor",
+            "phonetic": "[flɔː]",
+            "chinese": "地板",
+            "audioPath": "floor.mp3"
+        },
+        {
+            "english": "really",
+            "phonetic": "['rɪəli]",
+            "chinese": "真的",
+            "audioPath": "really.mp3"
+        },
+        {
+            "english": "near",
+            "phonetic": "[nɪə]",
+            "chinese": "距离近",
+            "audioPath": "near.mp3"
+        },
+        {
+            "english": "TV",
+            "phonetic": "[‚tiː'viː]",
+            "chinese": "电视",
+            "audioPath": "tv.mp3"
+        },
+        {
+            "english": "clean",
+            "phonetic": "[kliːn]",
+            "chinese": "打扫",
+            "audioPath": "clean.mp3"
+        },
+        {
+            "english": "help",
+            "phonetic": "[help]",
+            "chinese": "帮助",
+            "audioPath": "help.mp3"
+        }
+    ]
+}

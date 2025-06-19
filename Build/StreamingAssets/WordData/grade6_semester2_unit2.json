@@ -1,0 +1,146 @@
+{
+    "grade": 6,
+    "semester": 2,
+    "unit": 2,
+    "unitName": "",
+    "words": [
+        {
+            "english": "cleaned",
+            "phonetic": NaN,
+            "chinese": "打扫（clean的过去式）",
+            "audioPath": "cleaned.mp3"
+        },
+        {
+            "english": "stayed",
+            "phonetic": NaN,
+            "chinese": "停留；呆（stay）",
+            "audioPath": "stayed.mp3"
+        },
+        {
+            "english": "washed",
+            "phonetic": NaN,
+            "chinese": "洗（wash）",
+            "audioPath": "washed.mp3"
+        },
+        {
+            "english": "watched",
+            "phonetic": NaN,
+            "chinese": "看（watch）",
+            "audioPath": "watched.mp3"
+        },
+        {
+            "english": "had",
+            "phonetic": "[hæd]",
+            "chinese": "患病；得病（have）",
+            "audioPath": "had.mp3"
+        },
+        {
+            "english": "had a cold",
+            "phonetic": NaN,
+            "chinese": "感冒",
+            "audioPath": "had_a_cold.mp3"
+        },
+        {
+            "english": "slept",
+            "phonetic": NaN,
+            "chinese": "睡觉（sleep）",
+            "audioPath": "slept.mp3"
+        },
+        {
+            "english": "read",
+            "phonetic": "[riːd]",
+            "chinese": "读（read）",
+            "audioPath": "read.mp3"
+        },
+        {
+            "english": "saw",
+            "phonetic": "[sɔː]",
+            "chinese": "看见（see）",
+            "audioPath": "saw.mp3"
+        },
+        {
+            "english": "last",
+            "phonetic": "[lɑːst]",
+            "chinese": "最近的；上一个的",
+            "audioPath": "last.mp3"
+        },
+        {
+            "english": "yesterday",
+            "phonetic": "['jestədi]",
+            "chinese": "昨天",
+            "audioPath": "yesterday.mp3"
+        },
+        {
+            "english": "before",
+            "phonetic": "[bɪ'fɔː]",
+            "chinese": "在……之前",
+            "audioPath": "before.mp3"
+        },
+        {
+            "english": "drank",
+            "phonetic": "[drɪŋk]",
+            "chinese": "喝（drink）",
+            "audioPath": "drank.mp3"
+        },
+        {
+            "english": "show",
+            "phonetic": "[ʃəʊ]",
+            "chinese": "演出",
+            "audioPath": "show.mp3"
+        },
+        {
+            "english": "magazine",
+            "phonetic": "[ˌmægə'ziːn]",
+            "chinese": "杂志",
+            "audioPath": "magazine.mp3"
+        },
+        {
+            "english": "better",
+            "phonetic": "['betə]",
+            "chinese": "更好的（well；good）",
+            "audioPath": "better.mp3"
+        },
+        {
+            "english": "faster",
+            "phonetic": NaN,
+            "chinese": "更快的（fast）",
+            "audioPath": "faster.mp3"
+        },
+        {
+            "english": "hotel",
+            "phonetic": "[həʊ'tel]",
+            "chinese": "旅馆",
+            "audioPath": "hotel.mp3"
+        },
+        {
+            "english": "fixed",
+            "phonetic": NaN,
+            "chinese": "修理（fix）",
+            "audioPath": "fixed.mp3"
+        },
+        {
+            "english": "broken",
+            "phonetic": "['brəʊkən]",
+            "chinese": "破损的",
+            "audioPath": "broken.mp3"
+        },
+        {
+            "english": "lamp",
+            "phonetic": "[læmp]",
+            "chinese": "台灯",
+            "audioPath": "lamp.mp3"
+        },
+        {
+            "english": "loud",
+            "phonetic": "[laʊd]",
+            "chinese": "大声的；喧闹的",
+            "audioPath": "loud.mp3"
+        },
+        {
+            "english": "enjoy",
+            "phonetic": "[ɪn'dʒɔɪ]",
+            "chinese": "喜爱",
+            "audioPath": "enjoy.mp3"
+        }
+    ]
+}

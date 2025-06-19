@@ -1,0 +1,110 @@
+{
+    "grade": 4,
+    "semester": 1,
+    "unit": 6,
+    "unitName": "",
+    "words": [
+        {
+            "english": "parents",
+            "phonetic": "['peərənts]",
+            "chinese": "父母",
+            "audioPath": "parents.mp3"
+        },
+        {
+            "english": "cousin",
+            "phonetic": "['kʌzn]",
+            "chinese": "同辈表亲（堂亲）",
+            "audioPath": "cousin.mp3"
+        },
+        {
+            "english": "uncle",
+            "phonetic": "['ʌŋkl]",
+            "chinese": "叔叔",
+            "audioPath": "uncle.mp3"
+        },
+        {
+            "english": "aunt",
+            "phonetic": "[ɑːnt]",
+            "chinese": "阿姨",
+            "audioPath": "aunt.mp3"
+        },
+        {
+            "english": "baby brother",
+            "phonetic": NaN,
+            "chinese": "婴儿小弟弟",
+            "audioPath": "baby_brother.mp3"
+        },
+        {
+            "english": "doctor",
+            "phonetic": "[ˈdɒktə]",
+            "chinese": "医生",
+            "audioPath": "doctor.mp3"
+        },
+        {
+            "english": "cook",
+            "phonetic": "[kʊk]",
+            "chinese": "厨师",
+            "audioPath": "cook.mp3"
+        },
+        {
+            "english": "driver",
+            "phonetic": "['draɪvə]",
+            "chinese": "司机",
+            "audioPath": "driver.mp3"
+        },
+        {
+            "english": "farmer",
+            "phonetic": "['fɑːmə]",
+            "chinese": "农民",
+            "audioPath": "farmer.mp3"
+        },
+        {
+            "english": "nurse",
+            "phonetic": "[nɜːs]",
+            "chinese": "护士",
+            "audioPath": "nurse.mp3"
+        },
+        {
+            "english": "people",
+            "phonetic": "['piːpl]",
+            "chinese": "人们",
+            "audioPath": "people.mp3"
+        },
+        {
+            "english": "but",
+            "phonetic": "[bʌt]",
+            "chinese": "但是",
+            "audioPath": "but.mp3"
+        },
+        {
+            "english": "little",
+            "phonetic": "['lɪtl]",
+            "chinese": "小的",
+            "audioPath": "little.mp3"
+        },
+        {
+            "english": "puppy",
+            "phonetic": "['pʌpi]",
+            "chinese": "小狗",
+            "audioPath": "puppy.mp3"
+        },
+        {
+            "english": "football player",
+            "phonetic": NaN,
+            "chinese": "足球运动员",
+            "audioPath": "football_player.mp3"
+        },
+        {
+            "english": "job",
+            "phonetic": "[dʒɒb]",
+            "chinese": "工作",
+            "audioPath": "job.mp3"
+        },
+        {
+            "english": "basketball",
+            "phonetic": "['bæskɪtbɔːl]",
+            "chinese": "篮球",
+            "audioPath": "basketball.mp3"
+        }
+    ]
+}

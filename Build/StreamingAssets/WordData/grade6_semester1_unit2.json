@@ -1,0 +1,182 @@
+{
+    "grade": 6,
+    "semester": 1,
+    "unit": 2,
+    "unitName": "",
+    "words": [
+        {
+            "english": "on foot",
+            "phonetic": NaN,
+            "chinese": "步行",
+            "audioPath": "on_foot.mp3"
+        },
+        {
+            "english": "by",
+            "phonetic": "[baɪ]",
+            "chinese": "乘",
+            "audioPath": "by.mp3"
+        },
+        {
+            "english": "bus",
+            "phonetic": "[bʌs]",
+            "chinese": "公共汽车",
+            "audioPath": "bus.mp3"
+        },
+        {
+            "english": "plane",
+            "phonetic": "[pleɪn]",
+            "chinese": "飞机",
+            "audioPath": "plane.mp3"
+        },
+        {
+            "english": "taxi",
+            "phonetic": "['tæksi]",
+            "chinese": "出租汽车",
+            "audioPath": "taxi.mp3"
+        },
+        {
+            "english": "ship",
+            "phonetic": "[ʃɪp]",
+            "chinese": "船",
+            "audioPath": "ship.mp3"
+        },
+        {
+            "english": "subway",
+            "phonetic": "['sʌbweɪ]",
+            "chinese": "地铁",
+            "audioPath": "subway.mp3"
+        },
+        {
+            "english": "train",
+            "phonetic": "[treɪn]",
+            "chinese": "火车",
+            "audioPath": "train.mp3"
+        },
+        {
+            "english": "slow",
+            "phonetic": "[sləʊ]",
+            "chinese": "慢的",
+            "audioPath": "slow.mp3"
+        },
+        {
+            "english": "down",
+            "phonetic": "[daʊn]",
+            "chinese": "减少；降低",
+            "audioPath": "down.mp3"
+        },
+        {
+            "english": "slow down",
+            "phonetic": NaN,
+            "chinese": "慢下来",
+            "audioPath": "slow_down.mp3"
+        },
+        {
+            "english": "stop",
+            "phonetic": "[stɒp]",
+            "chinese": "停下",
+            "audioPath": "stop.mp3"
+        },
+        {
+            "english": "Mrs",
+            "phonetic": "['mɪsɪz]",
+            "chinese": "夫人",
+            "audioPath": "mrs.mp3"
+        },
+        {
+            "english": "early",
+            "phonetic": "['ɜːli]",
+            "chinese": "早到的",
+            "audioPath": "early.mp3"
+        },
+        {
+            "english": "helmet",
+            "phonetic": "['helmɪt]",
+            "chinese": "头盔",
+            "audioPath": "helmet.mp3"
+        },
+        {
+            "english": "must",
+            "phonetic": "[mʌst]",
+            "chinese": "必须",
+            "audioPath": "must.mp3"
+        },
+        {
+            "english": "wear",
+            "phonetic": "[weə]",
+            "chinese": "戴",
+            "audioPath": "wear.mp3"
+        },
+        {
+            "english": "attention",
+            "phonetic": "[əˈtenʃ(ə)n]",
+            "chinese": "注意",
+            "audioPath": "attention.mp3"
+        },
+        {
+            "english": "pay attention to",
+            "phonetic": NaN,
+            "chinese": "注意",
+            "audioPath": "pay_attention_to.mp3"
+        },
+        {
+            "english": "traffic",
+            "phonetic": "['træfɪk]",
+            "chinese": "交通",
+            "audioPath": "traffic.mp3"
+        },
+        {
+            "english": "traffic lights",
+            "phonetic": NaN,
+            "chinese": "交通信号灯",
+            "audioPath": "traffic_lights.mp3"
+        },
+        {
+            "english": "Munich",
+            "phonetic": NaN,
+            "chinese": "慕尼黑（德国城市）",
+            "audioPath": "munich.mp3"
+        },
+        {
+            "english": "Germany",
+            "phonetic": "['dʒɜːməni]",
+            "chinese": "德国",
+            "audioPath": "germany.mp3"
+        },
+        {
+            "english": "Alaska",
+            "phonetic": "[əˈlæskə]",
+            "chinese": "阿拉斯加州（美国州名）",
+            "audioPath": "alaska.mp3"
+        },
+        {
+            "english": "sled",
+            "phonetic": NaN,
+            "chinese": "雪橇",
+            "audioPath": "sled.mp3"
+        },
+        {
+            "english": "fast",
+            "phonetic": "[fɑːst]",
+            "chinese": "快的",
+            "audioPath": "fast.mp3"
+        },
+        {
+            "english": "ferry",
+            "phonetic": "[ˈferi]",
+            "chinese": "轮渡",
+            "audioPath": "ferry.mp3"
+        },
+        {
+            "english": "Papa Westray",
+            "phonetic": NaN,
+            "chinese": "帕帕韦斯特雷岛",
+            "audioPath": "papa_westray.mp3"
+        },
+        {
+            "english": "Scotland",
+            "phonetic": "[ˈskɒtlənd]",
+            "chinese": "苏格兰",
+            "audioPath": "scotland.mp3"
+        }
+    ]
+}

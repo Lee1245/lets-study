@@ -1,0 +1,80 @@
+{
+    "grade": 4,
+    "semester": 1,
+    "unit": 4,
+    "unitName": "",
+    "words": [
+        {
+            "english": "bedroom",
+            "phonetic": "['bedrʊm]",
+            "chinese": "卧室",
+            "audioPath": "bedroom.mp3"
+        },
+        {
+            "english": "living room",
+            "phonetic": NaN,
+            "chinese": "客厅；起居室",
+            "audioPath": "living_room.mp3"
+        },
+        {
+            "english": "study",
+            "phonetic": "['stʌdi]",
+            "chinese": "书房",
+            "audioPath": "study.mp3"
+        },
+        {
+            "english": "kitchen",
+            "phonetic": "['kɪtʃɪn]",
+            "chinese": "厨房",
+            "audioPath": "kitchen.mp3"
+        },
+        {
+            "english": "bathroom",
+            "phonetic": "[ˈbɑːθruːm]",
+            "chinese": "浴室",
+            "audioPath": "bathroom.mp3"
+        },
+        {
+            "english": "bed",
+            "phonetic": "[bed]",
+            "chinese": "床",
+            "audioPath": "bed.mp3"
+        },
+        {
+            "english": "phone",
+            "phonetic": "[fəʊn]",
+            "chinese": "电话",
+            "audioPath": "phone.mp3"
+        },
+        {
+            "english": "table",
+            "phonetic": "['teɪbl]",
+            "chinese": "桌子",
+            "audioPath": "table.mp3"
+        },
+        {
+            "english": "sofa",
+            "phonetic": "[ˈsəʊfə]",
+            "chinese": "长沙发",
+            "audioPath": "sofa.mp3"
+        },
+        {
+            "english": "fridge",
+            "phonetic": "[frɪdʒ]",
+            "chinese": "冰箱",
+            "audioPath": "fridge.mp3"
+        },
+        {
+            "english": "find",
+            "phonetic": "[faɪnd]",
+            "chinese": "找到",
+            "audioPath": "find.mp3"
+        },
+        {
+            "english": "them",
+            "phonetic": "[ðem]",
+            "chinese": "他（她、它）们",
+            "audioPath": "them.mp3"
+        }
+    ]
+}

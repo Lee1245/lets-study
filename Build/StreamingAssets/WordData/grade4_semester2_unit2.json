@@ -1,0 +1,116 @@
+{
+    "grade": 4,
+    "semester": 2,
+    "unit": 2,
+    "unitName": "",
+    "words": [
+        {
+            "english": "breakfast",
+            "phonetic": "['brekfəst]",
+            "chinese": "早餐",
+            "audioPath": "breakfast.mp3"
+        },
+        {
+            "english": "English class",
+            "phonetic": NaN,
+            "chinese": "英语课",
+            "audioPath": "english_class.mp3"
+        },
+        {
+            "english": "lunch",
+            "phonetic": "[lʌntʃ]",
+            "chinese": "午餐",
+            "audioPath": "lunch.mp3"
+        },
+        {
+            "english": "music class",
+            "phonetic": NaN,
+            "chinese": "音乐课",
+            "audioPath": "music_class.mp3"
+        },
+        {
+            "english": "PE class",
+            "phonetic": NaN,
+            "chinese": "体育课",
+            "audioPath": "pe_class.mp3"
+        },
+        {
+            "english": "dinner",
+            "phonetic": "['dɪnə]",
+            "chinese": "正餐",
+            "audioPath": "dinner.mp3"
+        },
+        {
+            "english": "get up",
+            "phonetic": "['getʌp]",
+            "chinese": "起床",
+            "audioPath": "get_up.mp3"
+        },
+        {
+            "english": "go to school",
+            "phonetic": NaN,
+            "chinese": "去上学",
+            "audioPath": "go_to_school.mp3"
+        },
+        {
+            "english": "go home",
+            "phonetic": NaN,
+            "chinese": "回家",
+            "audioPath": "go_home.mp3"
+        },
+        {
+            "english": "go to bed",
+            "phonetic": NaN,
+            "chinese": "上床睡觉",
+            "audioPath": "go_to_bed.mp3"
+        },
+        {
+            "english": "over",
+            "phonetic": "['əʊvə]",
+            "chinese": "结束",
+            "audioPath": "over.mp3"
+        },
+        {
+            "english": "now",
+            "phonetic": "[naʊ]",
+            "chinese": "现在；目前",
+            "audioPath": "now.mp3"
+        },
+        {
+            "english": "o'clock",
+            "phonetic": "[əˈklɒk]",
+            "chinese": "……点钟",
+            "audioPath": "o_clock.mp3"
+        },
+        {
+            "english": "kid",
+            "phonetic": "[kɪd]",
+            "chinese": "小孩",
+            "audioPath": "kid.mp3"
+        },
+        {
+            "english": "thirty",
+            "phonetic": "['θɜːti]",
+            "chinese": "三十",
+            "audioPath": "thirty.mp3"
+        },
+        {
+            "english": "hurry up",
+            "phonetic": NaN,
+            "chinese": "快点",
+            "audioPath": "hurry_up.mp3"
+        },
+        {
+            "english": "come on",
+            "phonetic": "[ˈkʌmɒn]",
+            "chinese": "快；加油",
+            "audioPath": "come_on.mp3"
+        },
+        {
+            "english": "just a minute",
+            "phonetic": NaN,
+            "chinese": "稍等一会儿",
+            "audioPath": "just_a_minute.mp3"
+        }
+    ]
+}

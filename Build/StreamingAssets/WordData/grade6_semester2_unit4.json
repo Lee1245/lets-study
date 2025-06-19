@@ -1,0 +1,140 @@
+{
+    "grade": 6,
+    "semester": 2,
+    "unit": 4,
+    "unitName": "",
+    "words": [
+        {
+            "english": "dining hall",
+            "phonetic": NaN,
+            "chinese": "饭厅",
+            "audioPath": "dining_hall.mp3"
+        },
+        {
+            "english": "grass",
+            "phonetic": "[grɑːs]",
+            "chinese": "草坪",
+            "audioPath": "grass.mp3"
+        },
+        {
+            "english": "gym",
+            "phonetic": "[dʒɪm]",
+            "chinese": "体育馆",
+            "audioPath": "gym.mp3"
+        },
+        {
+            "english": "ago",
+            "phonetic": "[ə'gəʊ]",
+            "chinese": "以前",
+            "audioPath": "ago.mp3"
+        },
+        {
+            "english": "cycling",
+            "phonetic": "[ˈsaɪklɪŋ]",
+            "chinese": "骑自行车运动",
+            "audioPath": "cycling.mp3"
+        },
+        {
+            "english": "go cycling",
+            "phonetic": NaN,
+            "chinese": "去骑自行车",
+            "audioPath": "go_cycling.mp3"
+        },
+        {
+            "english": "ice-skate",
+            "phonetic": NaN,
+            "chinese": "滑冰",
+            "audioPath": "ice_skate.mp3"
+        },
+        {
+            "english": "badminton",
+            "phonetic": "[ˈbædmɪntən]",
+            "chinese": "羽毛球运动",
+            "audioPath": "badminton.mp3"
+        },
+        {
+            "english": "star",
+            "phonetic": "[stɑː]",
+            "chinese": "星",
+            "audioPath": "star.mp3"
+        },
+        {
+            "english": "easy",
+            "phonetic": "['iːzi]",
+            "chinese": "容易的",
+            "audioPath": "easy.mp3"
+        },
+        {
+            "english": "look up",
+            "phonetic": "['lʊkʌp]",
+            "chinese": "查阅",
+            "audioPath": "look_up.mp3"
+        },
+        {
+            "english": "Internet",
+            "phonetic": "['ɪntəˌnet]",
+            "chinese": "互联网",
+            "audioPath": "internet.mp3"
+        },
+        {
+            "english": "different",
+            "phonetic": "['dɪfərənt]",
+            "chinese": "不同的",
+            "audioPath": "different.mp3"
+        },
+        {
+            "english": "active",
+            "phonetic": "['æktɪv]",
+            "chinese": "积极的；活跃的",
+            "audioPath": "active.mp3"
+        },
+        {
+            "english": "race",
+            "phonetic": "[reɪs]",
+            "chinese": "赛跑",
+            "audioPath": "race.mp3"
+        },
+        {
+            "english": "nothing",
+            "phonetic": "['nʌθɪŋ]",
+            "chinese": "没有什么",
+            "audioPath": "nothing.mp3"
+        },
+        {
+            "english": "thought",
+            "phonetic": "[θɔːt]",
+            "chinese": "想（think）",
+            "audioPath": "thought.mp3"
+        },
+        {
+            "english": "felt",
+            "phonetic": "[felt]",
+            "chinese": "感觉（feel）",
+            "audioPath": "felt.mp3"
+        },
+        {
+            "english": "cheetah",
+            "phonetic": "['tʃiːtə]",
+            "chinese": "猎豹",
+            "audioPath": "cheetah.mp3"
+        },
+        {
+            "english": "trip",
+            "phonetic": "[trɪp]",
+            "chinese": "绊倒",
+            "audioPath": "trip.mp3"
+        },
+        {
+            "english": "woke",
+            "phonetic": "[wəʊk]",
+            "chinese": "醒（wake）",
+            "audioPath": "woke.mp3"
+        },
+        {
+            "english": "dream",
+            "phonetic": "[driːm]",
+            "chinese": "梦",
+            "audioPath": "dream.mp3"
+        }
+    ]
+}

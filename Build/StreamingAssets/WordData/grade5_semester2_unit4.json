@@ -1,0 +1,122 @@
+{
+    "grade": 5,
+    "semester": 2,
+    "unit": 4,
+    "unitName": "",
+    "words": [
+        {
+            "english": "first",
+            "phonetic": "[fɜːst]",
+            "chinese": "第一",
+            "audioPath": "first.mp3"
+        },
+        {
+            "english": "second",
+            "phonetic": "['sekənd]",
+            "chinese": "第二",
+            "audioPath": "second.mp3"
+        },
+        {
+            "english": "third",
+            "phonetic": "[θɜːd]",
+            "chinese": "第三",
+            "audioPath": "third.mp3"
+        },
+        {
+            "english": "fourth",
+            "phonetic": "[ˈfɔːˈtiːn]",
+            "chinese": "第四",
+            "audioPath": "fourth.mp3"
+        },
+        {
+            "english": "fifth",
+            "phonetic": "[fɪfθ]",
+            "chinese": "第五",
+            "audioPath": "fifth.mp3"
+        },
+        {
+            "english": "sixth",
+            "phonetic": "[sɪksθ]",
+            "chinese": "第六",
+            "audioPath": "sixth.mp3"
+        },
+        {
+            "english": "twelfth",
+            "phonetic": "[twelfθ]",
+            "chinese": "第十二",
+            "audioPath": "twelfth.mp3"
+        },
+        {
+            "english": "twentieth",
+            "phonetic": "['twentiːɪθ]",
+            "chinese": "第二十",
+            "audioPath": "twentieth.mp3"
+        },
+        {
+            "english": "twenty-first",
+            "phonetic": "[ˌtwentɪ'fɜːst]",
+            "chinese": "第二十一",
+            "audioPath": "twenty_first.mp3"
+        },
+        {
+            "english": "twenty-third",
+            "phonetic": NaN,
+            "chinese": "第二十三",
+            "audioPath": "twenty_third.mp3"
+        },
+        {
+            "english": "special",
+            "phonetic": "['speʃəl]",
+            "chinese": "特殊的；特别的",
+            "audioPath": "special.mp3"
+        },
+        {
+            "english": "fool",
+            "phonetic": "[fuːl]",
+            "chinese": "蠢人；傻瓜",
+            "audioPath": "fool.mp3"
+        },
+        {
+            "english": "kitten",
+            "phonetic": NaN,
+            "chinese": "小猫",
+            "audioPath": "kitten.mp3"
+        },
+        {
+            "english": "diary",
+            "phonetic": "['daɪəri]",
+            "chinese": "日记",
+            "audioPath": "diary.mp3"
+        },
+        {
+            "english": "still",
+            "phonetic": "[stɪl]",
+            "chinese": "仍然；依旧；还是",
+            "audioPath": "still.mp3"
+        },
+        {
+            "english": "noise",
+            "phonetic": "[nɔɪz]",
+            "chinese": "声音；噪音",
+            "audioPath": "noise.mp3"
+        },
+        {
+            "english": "fur",
+            "phonetic": "[fɜː]",
+            "chinese": "浓密的；软毛",
+            "audioPath": "fur.mp3"
+        },
+        {
+            "english": "open",
+            "phonetic": "['əʊpən]",
+            "chinese": "开着的",
+            "audioPath": "open.mp3"
+        },
+        {
+            "english": "walk",
+            "phonetic": "[wɔːk]",
+            "chinese": "行走",
+            "audioPath": "walk.mp3"
+        }
+    ]
+}

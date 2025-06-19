@@ -1,0 +1,146 @@
+{
+    "grade": 5,
+    "semester": 2,
+    "unit": 6,
+    "unitName": "",
+    "words": [
+        {
+            "english": "doing moring exercise",
+            "phonetic": NaN,
+            "chinese": "做早操",
+            "audioPath": "doing_moring_exercise.mp3"
+        },
+        {
+            "english": "having…class",
+            "phonetic": NaN,
+            "chinese": "上……课",
+            "audioPath": "having_class.mp3"
+        },
+        {
+            "english": "reading a book",
+            "phonetic": NaN,
+            "chinese": "（正在）看书",
+            "audioPath": "reading_a_book.mp3"
+        },
+        {
+            "english": "listening to music",
+            "phonetic": NaN,
+            "chinese": "正在听音乐",
+            "audioPath": "listening_to_music.mp3"
+        },
+        {
+            "english": "keep",
+            "phonetic": "[kiːp]",
+            "chinese": "保持某种状态",
+            "audioPath": "keep.mp3"
+        },
+        {
+            "english": "keep to the right",
+            "phonetic": NaN,
+            "chinese": "靠右",
+            "audioPath": "keep_to_the_right.mp3"
+        },
+        {
+            "english": "keep your desk clean",
+            "phonetic": NaN,
+            "chinese": "保持你的课桌干净",
+            "audioPath": "keep_your_desk_clean.mp3"
+        },
+        {
+            "english": "talk quietly",
+            "phonetic": NaN,
+            "chinese": "小声讲话",
+            "audioPath": "talk_quietly.mp3"
+        },
+        {
+            "english": "turn",
+            "phonetic": "[tɜːn]",
+            "chinese": "顺序",
+            "audioPath": "turn.mp3"
+        },
+        {
+            "english": "take turns",
+            "phonetic": "[ˌteɪk'tɜːnz]",
+            "chinese": "按顺序来",
+            "audioPath": "take_turns.mp3"
+        },
+        {
+            "english": "bamboo",
+            "phonetic": "[bæm'buː]",
+            "chinese": "竹子",
+            "audioPath": "bamboo.mp3"
+        },
+        {
+            "english": "its",
+            "phonetic": "[ɪts]",
+            "chinese": "它的；他的；她的",
+            "audioPath": "its.mp3"
+        },
+        {
+            "english": "show",
+            "phonetic": "[ʃəʊ]",
+            "chinese": "给人看；指引",
+            "audioPath": "show.mp3"
+        },
+        {
+            "english": "anything",
+            "phonetic": "['enɪˌθɪŋ]",
+            "chinese": "任何事物",
+            "audioPath": "anything.mp3"
+        },
+        {
+            "english": "else",
+            "phonetic": "[els]",
+            "chinese": "另外；其他",
+            "audioPath": "else.mp3"
+        },
+        {
+            "english": "exhibition",
+            "phonetic": "[ˌeksɪˈbɪʃən]",
+            "chinese": "展览",
+            "audioPath": "exhibition.mp3"
+        },
+        {
+            "english": "say",
+            "phonetic": "[seɪ]",
+            "chinese": "说；讲",
+            "audioPath": "say.mp3"
+        },
+        {
+            "english": "have a look",
+            "phonetic": NaN,
+            "chinese": "看一看",
+            "audioPath": "have_a_look.mp3"
+        },
+        {
+            "english": "sushi",
+            "phonetic": NaN,
+            "chinese": "寿司",
+            "audioPath": "sushi.mp3"
+        },
+        {
+            "english": "teach",
+            "phonetic": "[tiːtʃ]",
+            "chinese": "教",
+            "audioPath": "teach.mp3"
+        },
+        {
+            "english": "sure",
+            "phonetic": "[ʃʊə]",
+            "chinese": "当然",
+            "audioPath": "sure.mp3"
+        },
+        {
+            "english": "Canadian",
+            "phonetic": "[kə'neɪdɪən]",
+            "chinese": "加拿大的",
+            "audioPath": "canadian.mp3"
+        },
+        {
+            "english": "Spanish",
+            "phonetic": "[ˈspænɪʃ]",
+            "chinese": "西班牙的",
+            "audioPath": "spanish.mp3"
+        }
+    ]
+}
